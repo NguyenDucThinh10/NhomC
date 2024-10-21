@@ -1,0 +1,14 @@
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.deps.json
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.runtimeconfig.json
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.dll
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.pdb
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.AssemblyInfo.cs
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.dll
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\obj\Debug\net8.0\refint\KoiProject.Repositories.dll
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.pdb
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.genruntimeconfig.cache
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Repositories\obj\Debug\net8.0\ref\KoiProject.Repositories.dll

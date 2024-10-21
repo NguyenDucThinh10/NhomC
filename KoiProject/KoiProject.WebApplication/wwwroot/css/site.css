@@ -1,0 +1,46 @@
+﻿/* Tạo nền bằng hình ảnh cho header */
+header {
+    background-image: url('/Images/bgr.jpg'); /* Đường dẫn hình ảnh mới */
+    background-size: cover; /* Đảm bảo hình ảnh phủ toàn bộ header */
+    background-position: 80%; /* Đẩy phần hình ảnh chứa nhiều cá lên trên */
+    background-repeat: no-repeat;
+    height: 40px; /* Điều chỉnh chiều cao để hiển thị phần ảnh mong muốn */
+    padding: 20px 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+/* Căn chỉnh logo và liên kết trong header */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.navbar-brand img {
+    height: 50px; /* Kích thước logo */
+}
+
+.navbar-nav {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white; /* Màu chữ liên kết */
+    font-weight: bold;
+}
+
+    .nav-link:hover {
+        color: #ddd; /* Hiệu ứng hover cho liên kết */
+    }
