@@ -1,50 +1,51 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
-using KoiProject.Repositories.Entities;
+using KoiProject.Repositories.Entities; // Đảm bảo đúng namespace
 using KoiProject.Repositories.Interfaces;
 using KoiProject.Service.Interfaces;
 namespace KoiProject.Service.Services
 {
-    public class KoiService: IKoiService
+    public class KoiService : IKoiService
     {
         private readonly IKoiRepository _koiRepository;
+
         public KoiService(IKoiRepository koiRepository)
         {
             _koiRepository = koiRepository;
         }
-        public  Task<int> AddKoiAsync(Koi koi)
+
+        public async Task<int> AddKoiAsync(KoiFish koi)
         {
-            throw new NotImplementedException();
+            _koiRepository.Add(koi);
+            return await _koiRepository.SaveChangesAsync();
         }
 
-        public Task<bool> DeleteKoiAsync(int KoiId)
+        public async Task<bool> DeleteKoiAsync(int koiId)
         {
-            throw new NotImplementedException();
+            var koi = await _koiRepository.GetKoiByIdAsync(koiId);
+            if (koi == null)
+            {
+                return false;
+            }
+
+            _koiRepository.Remove(koi);
+            await _koiRepository.SaveChangesAsync();
+            return true;
         }
 
-        public async Task<List<Koi>> GetKoiAsync()
+        public async Task<List<KoiFish>> GetKoisAsync()
         {
-            return await _koiRepository.GetKois();
+            return await _koiRepository.GetKoisAsync();
         }
 
-        public Task<List<Koi>> getKoiAsync()
+        public async Task<int> UpdateKoiAsync(KoiFish koi)
         {
-            throw new NotImplementedException();
+            _koiRepository.Update(koi);
+            return await _koiRepository.SaveChangesAsync();
         }
 
-        public Task<int> RemoveKoiAsync(int KoiId)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<int> UpdateKoi(Koi koi)
-        {
-            throw new NotImplementedException();
-        }
-        public async Task<Koi> GetKoiByIdAsync(int id)
+        public async Task<KoiFish?> GetKoiByIdAsync(int id)
         {
             return await _koiRepository.GetKoiByIdAsync(id);
         }

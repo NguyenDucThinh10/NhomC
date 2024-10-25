@@ -15,7 +15,7 @@ public class IndexModel : PageModel
         _connectionString = "Data Source=DESKTOP-QFUFB46;Initial Catalog=FengShuiKoiDB;Persist Security Info=True;User ID=sa;Password=123123;MultipleActiveResultSets=True;TrustServerCertificate=True";
     }
 
-    public IEnumerable<Koi>? KoiList { get; set; }
+    public IEnumerable<KoiFish>? KoiList { get; set; }
 
     public async Task OnGetAsync()
     {
@@ -31,7 +31,7 @@ public class IndexModel : PageModel
                 Console.WriteLine($"khong the ket noi: {ex.Message}");
             }
         }
-        KoiList = await _koiService.getKoiAsync();
+        KoiList = await _koiService.GetKoisAsync();
     }
    
 }

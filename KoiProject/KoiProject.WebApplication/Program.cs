@@ -14,7 +14,7 @@ builder.Services.AddDbContext<FengShuiKoiDbContext>(options =>
 });
 
 builder.Services.AddScoped<IKoiService, KoiService>();
-builder.Services.AddScoped<IKoiRepository, KoiRepositories>();
+builder.Services.AddScoped<IKoiRepository, KoiRepository>();
 
 // Đăng ký Razor Pages và Blazor
 builder.Services.AddRazorPages();
