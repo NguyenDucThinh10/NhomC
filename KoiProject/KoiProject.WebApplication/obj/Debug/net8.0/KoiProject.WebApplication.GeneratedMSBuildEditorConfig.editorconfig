@@ -22,16 +22,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nguye/Documents/Git/NhomC/KoiProject/KoiProject.WebApplication/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/nguye/Documents/Git/NhomC/KoiProject/KoiProject.WebApplication/Pages/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/nguye/Documents/Git/NhomC/KoiProject/KoiProject.WebApplication/Pages/DangKy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFuZ0t5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nguye/Documents/Git/NhomC/KoiProject/KoiProject.WebApplication/Pages/DangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFuZ05oYXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/nguye/Documents/Git/NhomC/KoiProject/KoiProject.WebApplication/Pages/Error.cshtml]

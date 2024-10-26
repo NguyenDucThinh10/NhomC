@@ -14,10 +14,13 @@
             background-color: #f4f4f4;
         }
         header {
+            width: 100%;
+            height:80px;
             background-color: #333;
             color: white;
             padding: 30px 0;
             text-align: center;
+            margin-bottom: 20px;
         }
         nav ul {
             list-style-type: none;
@@ -38,11 +41,11 @@
             text-decoration: underline;
         }
         .container {
-            width: 90%;
+            width: 100%;
             margin: 20px auto;
             background-color: white;
             padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
         }
         footer {
             background-color: #333;
@@ -60,12 +63,11 @@
         <nav>
             <ul>
                 <li><a asp-area="" asp-page="/Index">Home</a></li>
-                <li><a asp-area="" asp-page="/About">Giới thiệu</a></li>
-                <li><a asp-area="" asp-page="/Students/Index">Phong Thủy năm 2025</a></li>
+                <li><a asp-area="" asp-page="/Index">Phong Thủy năm 2025</a></li>
                 <li><a asp-area="" asp-page="/Courses/Index">Danh mục</a></li>
-                <li><a asp-area="" asp-page="/Instructors/Index">Instructors</a></li>
-                <li><a asp-area="" asp-page="/Departments/Index">Departments</a></li>
-                <li><a asp-area="" asp-page="/Privacy">Liên hệ</a></li>
+                <li><a asp-area="" asp-page="/Instructors/Index">Cửa hàng</a></li>
+                <li><a asp-area="" asp-page="/Departments/Index">Liên hệ</a></li>
+                <li><a asp-area="" asp-page="/DangNhap">Đăng nhập</a></li>
                 <li><a asp-area="" asp-page="/Privacy">Privacy</a></li>
             </ul>
         </nav>
