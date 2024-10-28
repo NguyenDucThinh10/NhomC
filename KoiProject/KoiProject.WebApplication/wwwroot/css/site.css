@@ -9,7 +9,7 @@ header {
     color: white;
     display: flex;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
 }
 
 /* Căn chỉnh logo và liên kết trong header */

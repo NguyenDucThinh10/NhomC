@@ -1,17 +1,25 @@
-﻿namespace KoiProject.Repositories.Entities
-{
-    public class KoiFish
-    {
-        public int KoiId { get; set; }
-        public string KoiName { get; set; }
-        public string Color { get; set; }
-        public string Description { get; set; }
-        public decimal SizeCm { get; set; }
-        public string FengShuiMeaning { get; set; }
-        public string SuitableForBmenh { get; set; }
+﻿using System;
+using System.Collections.Generic;
 
-        // Các mối quan hệ khác nếu có
-        public virtual ICollection<KoiOwnership> KoiOwnerships { get; set; }
-        public virtual ICollection<Recommendation> Recommendations { get; set; }
-    }
+namespace KoiProject.Repositories.Entities;
+
+public partial class KoiFish
+{
+    public int KoiId { get; set; }
+
+    public string KoiName { get; set; } = null!;
+
+    public string? Color { get; set; }
+
+    public decimal? SizeCm { get; set; }
+
+    public string? FengShuiMeaning { get; set; }
+
+    public string? SuitableForBmenh { get; set; }
+
+    public string? Description { get; set; }
+
+    public virtual ICollection<KoiOwnership> KoiOwnerships { get; set; } = new List<KoiOwnership>();
+
+    public virtual ICollection<Recommendation> Recommendations { get; set; } = new List<Recommendation>();
 }

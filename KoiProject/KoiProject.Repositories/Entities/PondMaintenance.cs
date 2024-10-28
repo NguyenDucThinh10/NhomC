@@ -3,7 +3,6 @@ using System.Collections.Generic;
 
 namespace KoiProject.Repositories.Entities;
 
-
 public partial class PondMaintenance
 {
     public int MaintenanceId { get; set; }

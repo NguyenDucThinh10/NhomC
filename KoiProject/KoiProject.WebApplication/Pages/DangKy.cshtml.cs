@@ -1,12 +1,22 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using KoiProject.Repositories.Interfaces;
+using KoiProject.Repositories.Entities;
+using KoiProject.Service.Interfaces;
 
 namespace KoiProject.WebApplication.Pages
 {
     public class DangKyModel : PageModel
     {
+        private readonly IAccountService _accountService;
+
+        public DangKyModel(IAccountService accountService)
+        {
+            _accountService = accountService;
+        }
+
         [BindProperty]
-        public string Username { get; set; }
+        public string FullName { get; set; }
 
         [BindProperty]
         public string Email { get; set; }
@@ -19,28 +29,54 @@ namespace KoiProject.WebApplication.Pages
 
         public string Message { get; set; }
 
-        // Ph??ng th?c này x? lý khi trang ???c truy c?p
+        public bool IsRegistered { get; set; } = false; // Xác định trạng thái đăng ký thành công
+        public bool EmailExists { get; set; } = false; // Xác định trạng thái email tồn tại
+
         public void OnGet()
         {
-            // Có th? thêm logic x? lý ban ??u n?u c?n
+            // Logic ban đầu nếu cần
         }
 
-        // Ph??ng th?c này x? lý khi form ???c submit
         public IActionResult OnPost()
         {
-            Console.WriteLine("OnPost method called!"); // In ra để kiểm tra xem có được gọi hay không
-
             if (Password != ConfirmPassword)
             {
                 ModelState.AddModelError(string.Empty, "Mật khẩu không khớp.");
-                return Page(); // Trả về lại trang nếu có lỗi
+                return Page();
             }
 
-            // Xử lý đăng ký tài khoản
-            Message = "Đăng ký thành công!"; // Gán thông báo thành công
+            try
+            {
+                // Kiểm tra xem email đã tồn tại chưa
+                if (_accountService.IsEmailExists(Email))
+                {
+                    EmailExists = true;
+                    ModelState.AddModelError("Email", "Email đã được đăng ký."); // Thêm thông báo lỗi
+                    return Page();
+                }
 
-            return Page(); // Ở lại trang và hiển thị thông báo
+                // Tạo đối tượng tài khoản mới
+                var account = new Account
+                {
+                    FullName = FullName,
+                    Email = Email,
+                    Password = Password // Lưu ý: nên mã hóa mật khẩu trước khi lưu
+                };
+
+                // Lưu tài khoản vào cơ sở dữ liệu
+                _accountService.RegisterAccount(account);
+
+                // Đặt trạng thái đăng ký thành công
+                IsRegistered = true;
+                Message = "Đăng ký thành công!";
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError(string.Empty, "Đã xảy ra lỗi: " + ex.Message);
+                return Page();
+            }
+
+            return Page();
         }
-
     }
 }

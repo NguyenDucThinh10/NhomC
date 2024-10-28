@@ -21,12 +21,24 @@
       "PackagePath": "staticwebassets\\Images\\dangky.jpg"
     },
     {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\fish.jpg",
+      "PackagePath": "staticwebassets\\Images\\fish.jpg"
+    },
+    {
       "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\icons\\favicon.ico",
       "PackagePath": "staticwebassets\\Images\\icons\\favicon.ico"
     },
     {
       "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\img-01.png",
       "PackagePath": "staticwebassets\\Images\\img-01.png"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\logo1.png",
+      "PackagePath": "staticwebassets\\Images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\logo2.png",
+      "PackagePath": "staticwebassets\\Images\\logo2.png"
     },
     {
       "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",

@@ -101,7 +101,7 @@
         "projectName": "KoiProject.Service",
         "projectPath": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\KoiProject.Service.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nguye\\Documents\\git\\NhomC\\KoiProject\\KoiProject.Service\\obj\\",
+        "outputPath": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

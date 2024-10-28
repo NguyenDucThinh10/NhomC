@@ -15,9 +15,11 @@ public partial class FengShuiKoiDbContext : DbContext
     {
     }
 
+    public virtual DbSet<Account> Accounts { get; set; }
+
     public virtual DbSet<Comment> Comments { get; set; }
 
-    public virtual DbSet<KoiFish> KoiFishes { get; set; }  // Giữ tên này nhất quán
+    public virtual DbSet<KoiFish> KoiFishes { get; set; }
 
     public virtual DbSet<KoiOwnership> KoiOwnerships { get; set; }
 
@@ -34,13 +36,26 @@ public partial class FengShuiKoiDbContext : DbContext
     public virtual DbSet<UserRole> UserRoles { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code.
-        optionsBuilder.UseSqlServer("Server=DESKTOP-QFUFB46;Database=FengShuiKoiDB;User Id=sa;Password=123123;TrustServerCertificate=True;");
-    }
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
+        => optionsBuilder.UseSqlServer("Data Source=DESKTOP-QFUFB46;Database=FengShuiKoiDB;User ID=sa;Password=123123;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<Account>(entity =>
+        {
+            entity.HasKey(e => e.AccountId).HasName("PK__Accounts__349DA5A6BAAEAB3C");
+
+            entity.HasIndex(e => e.Email, "UQ__Accounts__A9D10534711F2D33").IsUnique();
+
+            entity.Property(e => e.Email).HasMaxLength(100);
+            entity.Property(e => e.FullName).HasMaxLength(100);
+            entity.Property(e => e.Password).HasMaxLength(255);
+
+            entity.HasOne(d => d.UserRole).WithMany(p => p.Accounts)
+                .HasForeignKey(d => d.UserRoleId)
+                .HasConstraintName("FK_Accounts_UserRoles");
+        });
+
         modelBuilder.Entity<Comment>(entity =>
         {
             entity.HasKey(e => e.CommentId).HasName("PK__Comments__C3B4DFAAAF02B780");

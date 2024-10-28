@@ -3,20 +3,128 @@
   "WorkspaceRootPath": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\dangky.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\dangky.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\wwwroot\\css\\dangky.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\wwwroot\\css\\dangky.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\wwwroot\\images\\logo1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\wwwroot\\images\\logo1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\wwwroot\\css\\util.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\wwwroot\\css\\util.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.service\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|solutionrelative:koiproject.service\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\entities\\fengshuikoidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\entities\\fengshuikoidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.service\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|solutionrelative:koiproject.service\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Entities\\FengShuiKoiDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KoiProject.WebApplication\\Entities\\FengShuiKoiDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\entities\\koiownership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\entities\\koiownership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.service\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|solutionrelative:koiproject.service\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.service\\service\\koiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|solutionrelative:koiproject.service\\service\\koiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\repositories\\koirepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\repositories\\koirepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\interfaces\\ikoirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\interfaces\\ikoirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|solutionrelative:koiproject.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.service\\interfaces\\ikoiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|solutionrelative:koiproject.service\\interfaces\\ikoiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,14 +135,6 @@
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\dangnhap.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\dangnhap.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,20 +143,8 @@
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\dangky.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\dangky.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\wwwroot\\css\\dangky.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\wwwroot\\css\\dangky.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -71,36 +159,8 @@
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\entities\\fengshuikoidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\entities\\fengshuikoidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\repositories\\koirepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\repositories\\koirepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\interfaces\\ikoirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\interfaces\\ikoirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\entities\\koifish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\entities\\koifish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.service\\service\\koiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|solutionrelative:koiproject.service\\service\\koiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.service\\interfaces\\ikoiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC003EBC-5803-422B-9B61-F1D47E389EF2}|KoiProject.Service\\KoiProject.Service.csproj|solutionrelative:koiproject.service\\interfaces\\ikoiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\entities\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -117,10 +177,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\entities\\paymenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\entities\\paymenthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\entities\\koiownership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|solutionrelative:koiproject.repositories\\entities\\koiownership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F011BC1-09AF-48AA-AD29-4BAFD34E57F6}|KoiProject.Repositories\\KoiProject.Repositories.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.repositories\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -157,6 +213,46 @@
     {
       "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\nhomc\\koiproject\\koiproject.webapplication\\koiproject.webapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\koiproject.webapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\minxi.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\minxi.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\global.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\global.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\layouts\\responsive.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\layouts\\responsive.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\layouts\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\layouts\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KoiProject.WebApplication\\wwwroot\\DangKy\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\extend.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\extend.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\fonts.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\fonts.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KoiProject.WebApplication\\wwwroot\\DangKy\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -175,105 +271,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T13:39:53.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T13:16:22.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Index.cshtml",
-              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T13:14:29.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DangKy.cshtml",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\DangKy.cshtml",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\DangKy.cshtml",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\DangKy.cshtml",
-              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\DangKy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T13:11:36.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T13:11:54.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "DangKy.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\DangKy.cshtml.cs",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\DangKy.cshtml.cs",
               "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\DangKy.cshtml.cs",
               "RelativeToolTip": "KoiProject.WebApplication\\Pages\\DangKy.cshtml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBsAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T07:47:26.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\App.razor",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\App.razor",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\App.razor",
-              "RelativeToolTip": "KoiProject.WebApplication\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T13:16:33.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Program.cs",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Program.cs",
-              "RelativeToolTip": "KoiProject.WebApplication\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAASwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:53:07.539Z",
               "EditorCaption": ""
             },
             {
@@ -284,144 +289,435 @@
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\DangNhap.cshtml",
               "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\DangNhap.cshtml",
               "RelativeToolTip": "KoiProject.WebApplication\\Pages\\DangNhap.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-26T10:29:38.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Dangky.css",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",
-              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-25T08:59:28.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\site.css",
               "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-19T13:48:31.049Z",
+              "WhenOpened": "2024-10-19T13:48:31.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:11:54.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\_ViewStart.cshtml",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Shared\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T15:07:18.626Z",
+              "WhenOpened": "2024-10-28T09:55:32.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\DangKy.cshtml",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\DangKy.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:11:36.889Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Index.cshtml",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:14:29.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T09:55:34.472Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "DangNhap.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\DangNhap.cshtml.cs",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\DangNhap.cshtml.cs",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\DangNhap.cshtml.cs",
-              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\DangNhap.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T10:29:21.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Dangky.css",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-25T07:35:12.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T08:59:28.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Error.cshtml",
-              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Error.cshtml",
+              "DocumentIndex": 10,
+              "Title": "logo1.png",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\logo1.png",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\Images\\logo1.png",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\logo1.png",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\Images\\logo1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-27T18:52:24.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "minxi.scss",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\minxi.scss",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\minxi.scss",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\minxi.scss",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\minxi.scss",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-10-27T11:05:13.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\main.css",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\css\\main.css",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\main.css",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\css\\main.css",
+              "ViewState": "AgIAAJUAAAAAAAAAAIAwwMMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-27T18:47:23.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "util.css",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\util.css",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\css\\util.css",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\util.css",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\css\\util.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-27T18:47:54.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "global.scss",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\global.scss",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\global.scss",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\global.scss",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\global.scss",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-10-27T10:40:59.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "responsive.scss",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\layouts\\responsive.scss",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\layouts\\responsive.scss",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\layouts\\responsive.scss",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\layouts\\responsive.scss",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-10-27T11:06:01.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "main.scss",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\layouts\\main.scss",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\layouts\\main.scss",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\layouts\\main.scss",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\layouts\\main.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-10-27T11:05:26.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "variables.scss",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\variables.scss",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\variables.scss",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\variables.scss",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\variables.scss",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T16:15:57.952Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-10-27T11:05:21.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T16:15:54.073Z",
-              "EditorCaption": ""
+              "DocumentIndex": 58,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\css\\style.css",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\DangKy\\css\\style.css",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\css\\style.css",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\DangKy\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-27T10:08:40.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "style.scss",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\style.scss",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\style.scss",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\style.scss",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\style.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-10-27T10:31:55.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "extend.scss",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\extend.scss",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\extend.scss",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\extend.scss",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\extend.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-10-27T11:04:43.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "fonts.scss",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\fonts.scss",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\fonts.scss",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\fonts.scss",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\DangKy\\scss\\common\\fonts.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-10-27T11:04:47.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "KoiProject.Service\\Service\\AccountService.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Service\\AccountService.cs",
+              "RelativeToolTip": "KoiProject.Service\\Service\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:22:58.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\index.html",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\DangKy\\index.html",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\DangKy\\index.html",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\DangKy\\index.html",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowGkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-27T10:02:20.573Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-25T07:18:08.628Z",
-              "EditorCaption": ""
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "KoiProject.Repositories\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "KoiProject.Repositories\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:36:10.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "KoiProject.Repositories\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "KoiProject.Repositories\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:43:06.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "FengShuiKoiDbContext.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\FengShuiKoiDbContext.cs",
               "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\FengShuiKoiDbContext.cs",
               "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\FengShuiKoiDbContext.cs",
               "RelativeToolTip": "KoiProject.Repositories\\Entities\\FengShuiKoiDbContext.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAcwCUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:11:41.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T15:11:41.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Program.cs",
+              "RelativeToolTip": "KoiProject.WebApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:53:07.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FengShuiKoiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Entities\\FengShuiKoiDbContext.cs",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Entities\\FengShuiKoiDbContext.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Entities\\FengShuiKoiDbContext.cs",
+              "RelativeToolTip": "KoiProject.WebApplication\\Entities\\FengShuiKoiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:12:10.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KoiOwnership.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\KoiOwnership.cs",
+              "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\KoiOwnership.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\KoiOwnership.cs",
+              "RelativeToolTip": "KoiProject.Repositories\\Entities\\KoiOwnership.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:11:51.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "KoiProject.Service\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "KoiProject.Service\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:22:15.222Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\UserRole.cs",
+              "RelativeToolTip": "KoiProject.Repositories\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:12:35.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\User.cs",
+              "RelativeToolTip": "KoiProject.Repositories\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:12:30.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "KoiProject.Repositories\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "KoiProject.Repositories\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:05:49.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "KoiProject.Service\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Service\\UserService.cs",
+              "RelativeToolTip": "KoiProject.Service\\Service\\UserService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:01:32.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KoiService.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Service\\KoiService.cs",
+              "RelativeDocumentMoniker": "KoiProject.Service\\Service\\KoiService.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Service\\KoiService.cs",
+              "RelativeToolTip": "KoiProject.Service\\Service\\KoiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:20:50.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "KoiRepositories.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Repositories\\KoiRepositories.cs",
               "RelativeDocumentMoniker": "KoiProject.Repositories\\Repositories\\KoiRepositories.cs",
               "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Repositories\\KoiRepositories.cs",
               "RelativeToolTip": "KoiProject.Repositories\\Repositories\\KoiRepositories.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:08:10.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T14:08:10.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "KoiProject.Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "KoiProject.Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:05:25.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "IKoiRepository.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Interfaces\\IKoiRepository.cs",
               "RelativeDocumentMoniker": "KoiProject.Repositories\\Interfaces\\IKoiRepository.cs",
@@ -429,12 +725,143 @@
               "RelativeToolTip": "KoiProject.Repositories\\Interfaces\\IKoiRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:02:07.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T14:02:07.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "KoiProject.Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "KoiProject.Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:00:43.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IKoiService.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Interfaces\\IKoiService.cs",
+              "RelativeDocumentMoniker": "KoiProject.Service\\Interfaces\\IKoiService.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Interfaces\\IKoiService.cs",
+              "RelativeToolTip": "KoiProject.Service\\Interfaces\\IKoiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:10:24.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:39:53.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:16:22.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\App.razor",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\App.razor",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\App.razor",
+              "RelativeToolTip": "KoiProject.WebApplication\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:16:33.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T15:07:18.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DangNhap.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\DangNhap.cshtml.cs",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\DangNhap.cshtml.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\DangNhap.cshtml.cs",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\DangNhap.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:29:21.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-25T07:35:12.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\Error.cshtml",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T16:15:57.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T16:15:54.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T07:18:08.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "KoiFish.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\KoiFish.cs",
               "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\KoiFish.cs",
@@ -442,64 +869,11 @@
               "RelativeToolTip": "KoiProject.Repositories\\Entities\\KoiFish.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:01:36.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T15:01:36.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "KoiService.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Service\\KoiService.cs",
-              "RelativeDocumentMoniker": "KoiProject.Service\\Service\\KoiService.cs",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Service\\KoiService.cs",
-              "RelativeToolTip": "KoiProject.Service\\Service\\KoiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:20:50.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IKoiService.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Interfaces\\IKoiService.cs",
-              "RelativeDocumentMoniker": "KoiProject.Service\\Interfaces\\IKoiService.cs",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\Interfaces\\IKoiService.cs",
-              "RelativeToolTip": "KoiProject.Service\\Interfaces\\IKoiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:10:24.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\UserRole.cs",
-              "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\UserRole.cs",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\UserRole.cs",
-              "RelativeToolTip": "KoiProject.Repositories\\Entities\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:12:35.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\User.cs",
-              "RelativeToolTip": "KoiProject.Repositories\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:12:30.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 40,
               "Title": "Recommendation.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\Recommendation.cs",
               "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\Recommendation.cs",
@@ -507,12 +881,11 @@
               "RelativeToolTip": "KoiProject.Repositories\\Entities\\Recommendation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:12:13.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T15:12:13.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 41,
               "Title": "PondMaintenance.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\PondMaintenance.cs",
               "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\PondMaintenance.cs",
@@ -520,12 +893,11 @@
               "RelativeToolTip": "KoiProject.Repositories\\Entities\\PondMaintenance.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:12:07.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T15:12:07.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 42,
               "Title": "PondDetail.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\PondDetail.cs",
               "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\PondDetail.cs",
@@ -533,12 +905,11 @@
               "RelativeToolTip": "KoiProject.Repositories\\Entities\\PondDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:12:00.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T15:12:00.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 43,
               "Title": "PaymentHistory.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\PaymentHistory.cs",
               "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\PaymentHistory.cs",
@@ -546,25 +917,11 @@
               "RelativeToolTip": "KoiProject.Repositories\\Entities\\PaymentHistory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:11:55.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T15:11:55.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "KoiOwnership.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\KoiOwnership.cs",
-              "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\KoiOwnership.cs",
-              "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\KoiOwnership.cs",
-              "RelativeToolTip": "KoiProject.Repositories\\Entities\\KoiOwnership.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:11:51.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 44,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\Entities\\Comment.cs",
               "RelativeDocumentMoniker": "KoiProject.Repositories\\Entities\\Comment.cs",
@@ -572,12 +929,11 @@
               "RelativeToolTip": "KoiProject.Repositories\\Entities\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T14:42:09.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T14:42:09.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 45,
               "Title": "KoiProject.Repositories.csproj",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
               "RelativeDocumentMoniker": "KoiProject.Repositories\\KoiProject.Repositories.csproj",
@@ -585,12 +941,11 @@
               "RelativeToolTip": "KoiProject.Repositories\\KoiProject.Repositories.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-13T14:06:00.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T14:06:00.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 46,
               "Title": "KoiProject.Service.csproj",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.Service\\KoiProject.Service.csproj",
               "RelativeDocumentMoniker": "KoiProject.Service\\KoiProject.Service.csproj",
@@ -598,12 +953,11 @@
               "RelativeToolTip": "KoiProject.Service\\KoiProject.Service.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-21T05:46:02.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T05:46:02.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 47,
               "Title": "FengShuiKoiDbContext.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\KoiProject.Repositories\\Entities\\FengShuiKoiDbContext.cs",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\KoiProject.Repositories\\Entities\\FengShuiKoiDbContext.cs",
@@ -615,7 +969,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 48,
               "Title": "_Host.cshtml",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Pages\\_Host.cshtml",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\_Host.cshtml",
@@ -623,12 +977,11 @@
               "RelativeToolTip": "KoiProject.WebApplication\\Pages\\_Host.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T03:11:54.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T03:11:54.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 49,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\appsettings.json",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\appsettings.json",
@@ -636,12 +989,11 @@
               "RelativeToolTip": "KoiProject.WebApplication\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-13T15:02:55.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T15:02:55.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 50,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\Properties\\launchSettings.json",
@@ -649,12 +1001,11 @@
               "RelativeToolTip": "KoiProject.WebApplication\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-15T08:26:16.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T08:26:16.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 51,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\appsettings.Development.json",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\appsettings.Development.json",
@@ -662,20 +1013,18 @@
               "RelativeToolTip": "KoiProject.WebApplication\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-15T14:34:05.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T14:34:05.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 52,
               "Title": "KoiProject.WebApplication",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
               "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
               "RelativeToolTip": "KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-13T15:24:37.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T15:24:37.331Z"
             }
           ]
         }

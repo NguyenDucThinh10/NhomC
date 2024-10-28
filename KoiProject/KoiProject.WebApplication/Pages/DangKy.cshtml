@@ -1,8 +1,5 @@
 ﻿@page
 @model KoiProject.WebApplication.Pages.DangKyModel
-@{
-    ViewData["Title"] = "Đăng Ký";
-}
 
 <!DOCTYPE html>
 <html lang="en">
@@ -21,12 +18,17 @@
 
         <form method="post">
             <div class="form-group">
-                <label for="username">Tên đăng nhập</label>
-                <input type="text" id="username" asp-for="Username" class="form-control" required />
+                <label for="fullName">Họ tên</label>
+                <input type="text" id="fullName" asp-for="FullName" class="form-control" required />
             </div>
             <div class="form-group">
                 <label for="email">Email</label>
                 <input type="email" id="email" asp-for="Email" class="form-control" required />
+                <span asp-validation-for="Email" class="text-danger"></span>
+                @if (Model.EmailExists)
+                {
+                    <span class="text-danger">Email đã được đăng ký.</span>
+                }
             </div>
             <div class="form-group">
                 <label for="password">Mật khẩu</label>
@@ -63,71 +65,86 @@
     <!-- Script để hiển thị modal khi đăng ký thành công -->
     <script>
         $(document).ready(function () {
-            var isSuccess = '@Html.Raw(Model.Message)' === 'Đăng ký thành công!';
-            console.log("Message: @Model.Message"); // In ra giá trị của Message trong console
-            if (isSuccess) {
-                console.log("Hiển thị modal"); // Nếu đúng, in ra thông báo hiển thị modal
-                $('#successModal').modal('show');  // Hiển thị modal
+            var isRegistered = '@Model.IsRegistered' === 'True';
+            if (isRegistered) {
+                $('#successModal').modal('show');
             }
         });
     </script>
-
-
 </body>
 </html>
 
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f9f9f9;
-        padding: 0px;
-    }
-
+    /* Định dạng container chính */
     .container {
-        max-width: 600px; /* Giới hạn chiều rộng của form */
-        margin: 0 auto; /* Căn giữa form */
-        background-color: #fff;
+        max-width: 500px;
+        margin: 50px auto;
         padding: 20px;
-        border-radius: 10px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        background-color: #f9f9f9;
     }
 
+    /* Tiêu đề của form */
     h2 {
         text-align: center;
+        margin-bottom: 20px;
         color: #333;
     }
 
-    .form-group {
-        margin-bottom: 15px;
+    /* Định dạng các ô input và label */
+    .form-group label {
+        font-weight: bold;
+        color: #555;
     }
 
-        .form-group label {
-            font-weight: bold;
-        }
-
-    .form-control {
+    .form-group input {
+        height: 40px;
+        padding: 5px 10px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
         width: 100%;
-        padding: 10px;
-        border-radius: 5px;
-        border: 1px solid #ccc;
-        margin-top: 5px;
+        box-sizing: border-box;
+        font-size: 16px;
     }
 
-    .btn-primary {
-        background-color: #007bff;
-        color: white;
-        border: none;
-        padding: 10px 20px;
-        border-radius: 5px;
-        cursor: pointer;
-        transition: background-color 0.3s;
-        display: block; /* Đảm bảo nút được hiển thị như một khối */
-        margin: 20px auto 0 auto; /* Căn giữa nút */
-        width: 150px; /* Đặt chiều rộng cụ thể cho nút (tùy chỉnh nếu cần) */
-        text-align: center; /* Đảm bảo chữ bên trong nút được căn giữa */
-    }
-
-        .btn-primary:hover {
-            background-color: #0056b3;
+        .form-group input:focus {
+            border-color: #007bff;
+            outline: none;
         }
+
+    /* Nút đăng ký */
+    .btn-primary {
+        width: 100%;
+        font-size: 18px;
+        padding: 10px;
+        border-radius: 4px;
+    }
+
+    /* Định dạng modal */
+    .modal-content {
+        border-radius: 8px;
+    }
+
+    .modal-title {
+        font-weight: bold;
+        color: #333;
+    }
+
+    .modal-body {
+        font-size: 16px;
+        color: #555;
+    }
+
+    /* Nút đóng modal */
+    .modal-footer .btn-secondary {
+        border-radius: 4px;
+    }
+
+    /* Thông báo lỗi */
+    .text-danger {
+        font-size: 14px;
+        color: red;
+    }
 </style>
