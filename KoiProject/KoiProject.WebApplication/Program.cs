@@ -5,7 +5,6 @@ using KoiProject.Repositories.Interfaces.KoiProject.Repositories.Interfaces;
 using KoiProject.Repositories.Repositories;
 using KoiProject.Service;
 using KoiProject.Service.Interfaces;
-using KoiProject.Service.Service;
 using KoiProject.Service.Services;
 using Microsoft.EntityFrameworkCore;
 
@@ -19,8 +18,6 @@ builder.Services.AddDbContext<FengShuiKoiDbContext>(options =>
 
 builder.Services.AddScoped<IKoiService, KoiService>();
 builder.Services.AddScoped<IKoiRepository, KoiRepository>();
-builder.Services.AddScoped<IUserService, UserService>();
-builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IAccountService, AccountService>();
 builder.Services.AddScoped<IAccountRepository, AccountRepository>();
 

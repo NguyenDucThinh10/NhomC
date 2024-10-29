@@ -13,14 +13,6 @@
       "PackagePath": "staticwebassets\\Images\\bgr_header.jfif"
     },
     {
-      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\caphongthuy.png",
-      "PackagePath": "staticwebassets\\Images\\caphongthuy.png"
-    },
-    {
-      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\dangky.jpg",
-      "PackagePath": "staticwebassets\\Images\\dangky.jpg"
-    },
-    {
       "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\fish.jpg",
       "PackagePath": "staticwebassets\\Images\\fish.jpg"
     },
@@ -33,12 +25,56 @@
       "PackagePath": "staticwebassets\\Images\\img-01.png"
     },
     {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\koilover1st.jpg",
+      "PackagePath": "staticwebassets\\Images\\koilover1st.jpg"
+    },
+    {
       "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\logo1.png",
       "PackagePath": "staticwebassets\\Images\\logo1.png"
     },
     {
       "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\logo2.png",
       "PackagePath": "staticwebassets\\Images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainKohaku.jpg",
+      "PackagePath": "staticwebassets\\Images\\mainKohaku.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainhocaKoi.jpg",
+      "PackagePath": "staticwebassets\\Images\\mainhocaKoi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainkarasu.png",
+      "PackagePath": "staticwebassets\\Images\\mainkarasu.png"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainplatinum.jpg",
+      "PackagePath": "staticwebassets\\Images\\mainplatinum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainshowa.jpg",
+      "PackagePath": "staticwebassets\\Images\\mainshowa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainshusui.jpg",
+      "PackagePath": "staticwebassets\\Images\\mainshusui.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\tangqua.jpg",
+      "PackagePath": "staticwebassets\\Images\\tangqua.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\temchonggia.jpg",
+      "PackagePath": "staticwebassets\\Images\\temchonggia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\tintuc600.jpg",
+      "PackagePath": "staticwebassets\\Images\\tintuc600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\tintucthiennguyen.jpg",
+      "PackagePath": "staticwebassets\\Images\\tintucthiennguyen.jpg"
     },
     {
       "Id": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",

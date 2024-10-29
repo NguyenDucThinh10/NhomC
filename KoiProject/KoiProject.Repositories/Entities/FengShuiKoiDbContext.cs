@@ -91,7 +91,7 @@ public partial class FengShuiKoiDbContext : DbContext
             entity.Property(e => e.SizeCm)
                 .HasColumnType("decimal(5, 2)")
                 .HasColumnName("SizeCM");
-            entity.Property(e => e.SuitableForBmenh).HasMaxLength(50);
+            entity.Property(e => e.SuitableElement).HasMaxLength(50);
         });
 
         modelBuilder.Entity<KoiOwnership>(entity =>

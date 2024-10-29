@@ -15,7 +15,7 @@ public partial class KoiFish
 
     public string? FengShuiMeaning { get; set; }
 
-    public string? SuitableForBmenh { get; set; }
+    public string? SuitableElement { get; set; }
 
     public string? Description { get; set; }
 
