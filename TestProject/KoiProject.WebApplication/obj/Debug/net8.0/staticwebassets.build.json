@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yRsUtiwpWRv16FFPnMBZDTFP7wGE71n/PFu2nO5w/Io=",
+  "Hash": "v/k4fLnbn1NhVJUCmfRJIscl0pzC9ASqZXoHqgww36M=",
   "Source": "KoiProject.WebApplication",
   "BasePath": "_content/KoiProject.WebApplication",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "KoiProject.WebApplication\\wwwroot",
       "Source": "KoiProject.WebApplication",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KoiProject.WebApplication.styles.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KoiProject.WebApplication.styles.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "KoiProject.WebApplication.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KoiProject.WebApplication.styles.css"
+      "OriginalItemSpec": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KoiProject.WebApplication.styles.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KoiProject.WebApplication.bundle.scp.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KoiProject.WebApplication.bundle.scp.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "KoiProject.WebApplication.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KoiProject.WebApplication.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KoiProject.WebApplication.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "css/Dangky.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Dangky.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\main.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\css\\main.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\css\\site.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\util.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\css\\util.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "css/util.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\util.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\favicon.ico",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/css/font-awesome.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/HELP-US-OUT.txt",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/animated.less",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/bordered-pulled.less",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/core.less",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/fixed-width.less",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/font-awesome.less",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/icons.less",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/larger.less",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/list.less",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/mixins.less",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/path.less",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/rotated-flipped.less",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/screen-reader.less",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/stacked.less",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/less/variables.less",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_animated.scss",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_core.scss",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_fixed-width.scss",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_icons.scss",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_larger.scss",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_list.scss",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_mixins.scss",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_path.scss",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_screen-reader.scss",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_stacked.scss",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/_variables.scss",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/font-awesome-4.7.0/scss/font-awesome.scss",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Black.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-Black.ttf",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-BlackItalic.ttf",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Bold.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-Bold.ttf",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-BoldItalic.ttf",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-ExtraBold.ttf",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-ExtraBoldItalic.ttf",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-ExtraLight.ttf",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-ExtraLightItalic.ttf",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Italic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-Italic.ttf",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-Italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Light.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-Light.ttf",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-LightItalic.ttf",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Medium.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-Medium.ttf",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-MediumItalic.ttf",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Regular.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-Regular.ttf",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-SemiBold.ttf",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-SemiBoldItalic.ttf",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Thin.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-Thin.ttf",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-Thin.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/Montserrat-ThinItalic.ttf",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\OFL.txt",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\OFL.txt",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/montserrat/OFL.txt",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\montserrat\\OFL.txt"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-Black.ttf",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-BlackItalic.ttf",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-Bold.ttf",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-BoldItalic.ttf",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-ExtraBold.ttf",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-ExtraBoldItalic.ttf",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-ExtraLight.ttf",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-ExtraLightItalic.ttf",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-Italic.ttf",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-Light.ttf",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-LightItalic.ttf",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-Medium.ttf",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-MediumItalic.ttf",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-Regular.ttf",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-SemiBold.ttf",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-SemiBoldItalic.ttf",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-Thin.ttf",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-Thin.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "fonts/poppins/Poppins-ThinItalic.ttf",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\bgr.jpg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\bgr.jpg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/bgr.jpg",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bgr.jpg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\bgr_header.jfif",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\bgr_header.jfif",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/bgr_header.jfif",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bgr_header.jfif"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\fish.jpg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\fish.jpg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/fish.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\fish.jpg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\icons\\favicon.ico",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\icons\\favicon.ico",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/icons/favicon.ico",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\icons\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\img-01.png",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\img-01.png",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/img-01.png",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\img-01.png"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\koilover1st.jpg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\koilover1st.jpg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/koilover1st.jpg",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\koilover1st.jpg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\logo1.png",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\logo1.png",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/logo1.png",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logo1.png"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\logo2.png",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\logo2.png",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/logo2.png",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logo2.png"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainhocaKoi.jpg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainhocaKoi.jpg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/mainhocaKoi.jpg",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mainhocaKoi.jpg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainkarasu.png",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainkarasu.png",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/mainkarasu.png",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mainkarasu.png"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainKohaku.jpg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainKohaku.jpg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/mainKohaku.jpg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mainKohaku.jpg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainplatinum.jpg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainplatinum.jpg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/mainplatinum.jpg",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mainplatinum.jpg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainshowa.jpg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainshowa.jpg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/mainshowa.jpg",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mainshowa.jpg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainshusui.jpg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\mainshusui.jpg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/mainshusui.jpg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\mainshusui.jpg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\tangqua.jpg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\tangqua.jpg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/tangqua.jpg",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\tangqua.jpg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\temchonggia.jpg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\temchonggia.jpg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/temchonggia.jpg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\temchonggia.jpg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\tintuc600.jpg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\tintuc600.jpg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/tintuc600.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\tintuc600.jpg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\tintucthiennguyen.jpg",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\Images\\tintucthiennguyen.jpg",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "Images/tintucthiennguyen.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\tintucthiennguyen.jpg"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\js\\main.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\js\\site.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\animate\\animate.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\animate\\animate.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/animate/animate.css",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\animate\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/js/popper.js",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/js/popper.min.js",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/bootstrap/js/tooltip.js",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\tooltip.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/css-hamburgers/hamburgers.css",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\css-hamburgers\\hamburgers.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/css-hamburgers/hamburgers.min.css",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/jquery/jquery-3.2.1.min.js",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\select2\\select2.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\select2\\select2.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/select2/select2.css",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\select2\\select2.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\select2\\select2.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\select2\\select2.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/select2/select2.js",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\select2\\select2.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\select2\\select2.min.css",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\select2\\select2.min.css",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/select2/select2.min.css",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\select2\\select2.min.css"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\select2\\select2.min.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\select2\\select2.min.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/select2/select2.min.js",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\vendor\\select2\\select2.min.js"
     },
     {
-      "Identity": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\tilt\\tilt.jquery.min.js",
+      "Identity": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\vendor\\tilt\\tilt.jquery.min.js",
       "SourceId": "KoiProject.WebApplication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\NhomC\\KoiProject\\KoiProject.WebApplication\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\TestProject\\KoiProject.WebApplication\\wwwroot\\",
       "BasePath": "_content/KoiProject.WebApplication",
       "RelativePath": "vendor/tilt/tilt.jquery.min.js",
       "AssetKind": "All",
