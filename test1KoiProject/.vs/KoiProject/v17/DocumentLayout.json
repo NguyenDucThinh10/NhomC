@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\duan\\KoiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\duan\\koiproject\\koiproject.webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\duan\\koiproject\\koiproject.webapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\duan\\koiproject\\koiproject.webapplication\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\duan\\koiproject\\koiproject.webapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\duan\\koiproject\\koiproject.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-29T19:47:25.663Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\Pages\\Index.cshtml",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T13:14:29.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T21:10:05.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\css\\index.css",
+              "ToolTip": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\index.css",
+              "RelativeToolTip": "KoiProject.WebApplication\\wwwroot\\css\\index.css",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAKUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-27T05:18:11.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "KoiProject.WebApplication\\Program.cs",
+              "ToolTip": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\Program.cs",
+              "RelativeToolTip": "KoiProject.WebApplication\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAASwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:37:30.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

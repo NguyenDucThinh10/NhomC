@@ -1,0 +1,829 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KoiProject.WebApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KoiProject.WebApplication.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\bgr.jpg",
+      "PackagePath": "staticwebassets\\Images\\bgr.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\bgr_header.jfif",
+      "PackagePath": "staticwebassets\\Images\\bgr_header.jfif"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\caphongthuy.png",
+      "PackagePath": "staticwebassets\\Images\\caphongthuy.png"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\chat.jpg",
+      "PackagePath": "staticwebassets\\Images\\chat.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\dangky.jpg",
+      "PackagePath": "staticwebassets\\Images\\dangky.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\dangnhap.png",
+      "PackagePath": "staticwebassets\\Images\\dangnhap.png"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\diachi.jpg",
+      "PackagePath": "staticwebassets\\Images\\diachi.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\gio-hang.png",
+      "PackagePath": "staticwebassets\\Images\\gio-hang.png"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\Images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\img-01.png",
+      "PackagePath": "staticwebassets\\Images\\img-01.png"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\category\\Tranh-Phong-Khach.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\category\\Tranh-Phong-Khach.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\category\\anh-van-phong.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\category\\anh-van-phong.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\category\\dong-ho.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\category\\dong-ho.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\category\\nhan-tuong-hoc.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\category\\nhan-tuong-hoc.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\category\\pha-le.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\category\\pha-le.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\category\\phong-cach-song.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\category\\phong-cach-song.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\category\\phong-thuy-101.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\category\\phong-thuy-101.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\category\\phong-thuy-hang-nam.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\category\\phong-thuy-hang-nam.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\category\\su-tu-da.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\category\\su-tu-da.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\category\\tien.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\category\\tien.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\category\\tinh-yeu.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\category\\tinh-yeu.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\category\\truyen-thong.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\category\\truyen-thong.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\chuabenhvatangcuong\\guong-bat-quat.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\chuabenhvatangcuong\\guong-bat-quat.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\chuabenhvatangcuong\\phat-di-lat.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\chuabenhvatangcuong\\phat-di-lat.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\chuabenhvatangcuong\\rong-phong-thuy.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\chuabenhvatangcuong\\rong-phong-thuy.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\chuabenhvatangcuong\\thach-anh-tim.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\chuabenhvatangcuong\\thach-anh-tim.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\trangchutrangtri\\ban-lam-viec.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\trangchutrangtri\\ban-lam-viec.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\trangchutrangtri\\bon-rua-nha-bep.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\trangchutrangtri\\bon-rua-nha-bep.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\trangchutrangtri\\dai-phun-nuoc.webp",
+      "PackagePath": "staticwebassets\\Images\\index\\trangchutrangtri\\dai-phun-nuoc.webp"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\trangchutrangtri\\phong-thuy-cho-khu-vuc-trung-tam-nha.webp",
+      "PackagePath": "staticwebassets\\Images\\index\\trangchutrangtri\\phong-thuy-cho-khu-vuc-trung-tam-nha.webp"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\vanphongsunghiep\\hinh1.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\vanphongsunghiep\\hinh1.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\vanphongsunghiep\\hinh2.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\vanphongsunghiep\\hinh2.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\vanphongsunghiep\\hinh3.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\vanphongsunghiep\\hinh3.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\index\\vanphongsunghiep\\hinh4.jpg",
+      "PackagePath": "staticwebassets\\Images\\index\\vanphongsunghiep\\hinh4.jpg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\koi.png",
+      "PackagePath": "staticwebassets\\Images\\koi.png"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\Images\\vanchuyen.png",
+      "PackagePath": "staticwebassets\\Images\\vanchuyen.png"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\Dangky.css",
+      "PackagePath": "staticwebassets\\css\\Dangky.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\duan\\KoiProject\\KoiProject.WebApplication\\wwwroot\\vendor\\tilt\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tilt\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KoiProject.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KoiProject.WebApplication.props",
+      "PackagePath": "build\\KoiProject.WebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KoiProject.WebApplication.props",
+      "PackagePath": "buildMultiTargeting\\KoiProject.WebApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KoiProject.WebApplication.props",
+      "PackagePath": "buildTransitive\\KoiProject.WebApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

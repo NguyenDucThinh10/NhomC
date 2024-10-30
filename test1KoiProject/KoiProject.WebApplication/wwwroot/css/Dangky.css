@@ -1,0 +1,28 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-image: url('/Images/dangky.jpg'); /* Đặt hình nền */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    padding: 20px;
+}
+
+
+.container {
+    max-width: 600px;
+    margin-left: auto; /* Tự động đẩy form sang phải */
+    margin-right: 0; /* Đảm bảo không có khoảng trống ở bên phải */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Nền trắng với độ trong suốt */
+    display: block;
+}
+
+
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}

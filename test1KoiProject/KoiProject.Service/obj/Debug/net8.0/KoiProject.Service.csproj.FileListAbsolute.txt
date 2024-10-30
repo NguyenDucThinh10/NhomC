@@ -1,0 +1,68 @@
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.deps.json
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.dll
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.pdb
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.dll
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.pdb
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfoInputs.cache
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfo.cs
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProje.14F2F364.Up2Date
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.dll
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\obj\Debug\net8.0\refint\KoiProject.Service.dll
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
+C:\Users\nguye\source\repos\KoiProject\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfo.cs
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.sourcelink.json
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.deps.json
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.runtimeconfig.json
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.dll
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.pdb
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.dll
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.pdb
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProje.14F2F364.Up2Date
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.dll
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\refint\KoiProject.Service.dll
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
+C:\Users\nguye\Documents\Git\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.deps.json
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.runtimeconfig.json
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.dll
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.pdb
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.dll
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.pdb
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.AssemblyReference.cache
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfoInputs.cache
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfo.cs
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.CoreCompileInputs.cache
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.sourcelink.json
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProje.14F2F364.Up2Date
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.dll
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\refint\KoiProject.Service.dll
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
+D:\nhom c\NhomC\NhomC\KoiProject\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
+D:\duan\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.deps.json
+D:\duan\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.runtimeconfig.json
+D:\duan\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.dll
+D:\duan\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.pdb
+D:\duan\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.dll
+D:\duan\KoiProject\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.pdb
+D:\duan\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.AssemblyReference.cache
+D:\duan\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\duan\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfoInputs.cache
+D:\duan\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfo.cs
+D:\duan\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.CoreCompileInputs.cache
+D:\duan\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProje.14F2F364.Up2Date
+D:\duan\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.dll
+D:\duan\KoiProject\KoiProject.Service\obj\Debug\net8.0\refint\KoiProject.Service.dll
+D:\duan\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
+D:\duan\KoiProject\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
+D:\duan\KoiProject\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
