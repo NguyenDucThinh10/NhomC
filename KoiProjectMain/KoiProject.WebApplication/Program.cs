@@ -43,18 +43,6 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts(); // Cấu hình HSTS cho môi trường production
 }
 
-app.Use(async (context, next) =>
-{
-    // Kiểm tra nếu chưa có header Content-Type
-    if (!context.Response.Headers.ContainsKey("Content-Type"))
-    {
-        context.Response.Headers.Add("Content-Type", "text/html; charset=utf-8");
-    }
-
-    await next();
-});
-
-
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\KoiProjectMain\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\mainpro\\nhomc\\koiprojectmain\\koiproject.webapplication\\pages\\phongthuy2024.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\phongthuy2024.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\mainpro\\nhomc\\koiprojectmain\\koiproject.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\mainpro\\nhomc\\koiprojectmain\\koiproject.webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\mainpro\\nhomc\\koiprojectmain\\koiproject.webapplication\\pages\\phongthuy2024.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\phongthuy2024.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|c:\\users\\nguye\\documents\\git\\mainpro\\nhomc\\koiprojectmain\\koiproject.webapplication\\pages\\tuvan.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -273,7 +273,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -281,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
@@ -293,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\wwwroot\\css\\site.css",
@@ -305,45 +305,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Phongthuy2024.cshtml",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\Phongthuy2024.cshtml",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Phongthuy2024.cshtml",
               "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\Phongthuy2024.cshtml",
               "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Phongthuy2024.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4BAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T13:38:14.229Z"
+              "WhenOpened": "2024-10-30T13:38:14.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Program.cs",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\Program.cs",
               "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Program.cs",
               "RelativeToolTip": "KoiProject.WebApplication\\Program.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAlwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:53:07.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T14:53:07.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\appsettings.json",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\appsettings.json",
               "ToolTip": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\appsettings.json",
               "RelativeToolTip": "KoiProject.WebApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-13T15:02:55.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T15:02:55.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\nguye\\Documents\\Git\\MainPro\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Index.cshtml",
