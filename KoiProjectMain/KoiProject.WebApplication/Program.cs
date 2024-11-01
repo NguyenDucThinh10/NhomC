@@ -1,7 +1,6 @@
 ﻿using KoiProject.Repositories;
 using KoiProject.Repositories.Entities;
 using KoiProject.Repositories.Interfaces;
-using KoiProject.Repositories.Interfaces;
 using KoiProject.Repositories.Repositories;
 using KoiProject.Service;
 using KoiProject.Service.Interfaces;

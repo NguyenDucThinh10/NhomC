@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace KoiProject.WebApplication.Pages
 {
-    public class tintuc2Model : PageModel
+    public class TinTuc2Model : PageModel
     {
         public void OnGet()
         {
