@@ -4041,23 +4041,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\Minh Chien\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
+      "projectUniqueName": "D:\\duan\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
       "projectName": "KoiProject.Repositories",
-      "projectPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\obj\\",
+      "projectPath": "D:\\duan\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
+      "packagesPath": "C:\\Users\\Minh Chien\\.nuget\\packages\\",
+      "outputPath": "D:\\duan\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Minh Chien\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4126,7 +4126,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

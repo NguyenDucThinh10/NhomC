@@ -119,7 +119,7 @@
         <div class="news-item">
             <img src="~/Images/tintuc600.jpg" alt="tintuc">
             <div class="news-text">
-                <a asp-area="" asp-page="/600">600 con cá Koi Nhật thi triển lãm cá Koi</a>
+                <a asp-area="" asp-page="/600cakoi">600 con cá Koi Nhật thi triển lãm cá Koi</a>
                 <p class="news-date"><i class="fa fa-calendar"></i> 22/11/2023</p>
             </div>
         </div>
@@ -159,7 +159,7 @@
         <div class="news-item">
             <img src="~/Images/fish.jpg" alt="tintuc">
             <div class="news-text">
-                <a asp-area="" asp-page="/Privacy">Chương trình khuyến mãi hấp dẫn tháng 8</a>
+                <a asp-area="" asp-page="/tintuc6">Chương trình khuyến mãi hấp dẫn tháng 8</a>
                 <p class="news-date"><i class="fa fa-calendar"></i> 11/10/2023</p>
             </div>
         </div>

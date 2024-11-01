@@ -72,3 +72,18 @@ D:\model 2\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\refint\
 D:\model 2\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.pdb
 D:\model 2\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.genruntimeconfig.cache
 D:\model 2\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\ref\KoiProject.Repositories.dll
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.deps.json
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.runtimeconfig.json
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.dll
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.pdb
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.csproj.AssemblyReference.cache
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.AssemblyInfoInputs.cache
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.AssemblyInfo.cs
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.csproj.CoreCompileInputs.cache
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.sourcelink.json
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.dll
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\refint\KoiProject.Repositories.dll
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.pdb
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.genruntimeconfig.cache
+D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\ref\KoiProject.Repositories.dll
