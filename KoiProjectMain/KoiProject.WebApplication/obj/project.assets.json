@@ -4044,11 +4044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
+      "projectUniqueName": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
       "projectName": "KoiProject.WebApplication",
-      "projectPath": "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
+      "projectPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\obj\\",
+      "outputPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4069,8 +4069,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {
-              "projectPath": "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj"
+            "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {
+              "projectPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj"
             }
           }
         }

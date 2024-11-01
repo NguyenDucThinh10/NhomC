@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {}
+    "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {}
   },
   "projects": {
-    "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {
+    "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
+        "projectUniqueName": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
         "projectName": "KoiProject.Repositories",
-        "projectPath": "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
+        "projectPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\obj\\",
+        "outputPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,14 +90,14 @@
         }
       }
     },
-    "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {
+    "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
+        "projectUniqueName": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
         "projectName": "KoiProject.Service",
-        "projectPath": "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
+        "projectPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Service\\obj\\",
+        "outputPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -118,8 +118,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {
-                "projectPath": "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj"
+              "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {
+                "projectPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj"
               }
             }
           }

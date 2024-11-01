@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OhyXAt5t1hZN6uvpE1s3cUrfskjrLzDE5+OpdHma90geXVXC0aFwcu9ihvquNKspiZFktGUkx0WTWqRas/ORPw==",
+  "dgSpecHash": "SkVDE1BOYTgsexGh8I3GvFFi5dIcSbZZrRP2C4GgWvgCcJYjxMXNtvuUvaXsm1iDWBVa/qotu7dQv+hvcYr8ug==",
   "success": true,
-  "projectFilePath": "D:\\demo\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
+  "projectFilePath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
