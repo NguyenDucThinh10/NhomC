@@ -49,3 +49,21 @@ C:\Users\nguye\Documents\Git\MainPro\NhomC\KoiProjectMain\KoiProject.Service\obj
 C:\Users\nguye\Documents\Git\MainPro\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
 C:\Users\nguye\Documents\Git\MainPro\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
 C:\Users\nguye\Documents\Git\MainPro\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.deps.json
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.runtimeconfig.json
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.dll
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.pdb
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.dll
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.pdb
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.AssemblyReference.cache
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfoInputs.cache
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfo.cs
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.CoreCompileInputs.cache
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.sourcelink.json
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.CopyComplete
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.dll
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\refint\KoiProject.Service.dll
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
