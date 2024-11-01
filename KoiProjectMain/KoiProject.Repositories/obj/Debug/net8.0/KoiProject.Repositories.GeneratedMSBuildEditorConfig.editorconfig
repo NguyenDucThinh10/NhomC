@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KoiProject.Repositories
+<<<<<<< HEAD
 build_property.ProjectDir = D:\model 2\NhomC\KoiProjectMain\KoiProject.Repositories\
+=======
+build_property.ProjectDir = C:\cnpm btl\NhomC\NhomC\NhomC\NhomC\KoiProjectMain\KoiProject.Repositories\
+>>>>>>> 5211ff3c3ef7c255d792b45a894f4e55e585ac23
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
