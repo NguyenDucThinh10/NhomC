@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\model 2\\NhomC\\KoiProjectMain\\",
+  "WorkspaceRootPath": "D:\\1\\NhomC\\KoiProjectMain\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\model 2\\nhomc\\koiprojectmain\\koiproject.webapplication\\pages\\tintuc4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\1\\nhomc\\koiprojectmain\\koiproject.webapplication\\pages\\tintuc4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\tintuc4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\model 2\\nhomc\\koiprojectmain\\koiproject.webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\1\\nhomc\\koiprojectmain\\koiproject.webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\model 2\\nhomc\\koiprojectmain\\koiproject.webapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\1\\nhomc\\koiprojectmain\\koiproject.webapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\model 2\\nhomc\\koiprojectmain\\koiproject.webapplication\\pages\\tintuc2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|d:\\1\\nhomc\\koiprojectmain\\koiproject.webapplication\\pages\\tintuc2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{762155B2-AA31-40EC-8830-392FEA2EDDAD}|KoiProject.WebApplication\\KoiProject.WebApplication.csproj|solutionrelative:koiproject.webapplication\\pages\\tintuc2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -32,24 +32,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\model 2\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\1\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\model 2\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\1\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAG8AAAAAAAAAAAAAAEsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T07:39:39.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T07:39:39.361Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "tintuc4.cshtml",
-              "DocumentMoniker": "D:\\model 2\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\tintuc4.cshtml",
+              "DocumentMoniker": "D:\\1\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\tintuc4.cshtml",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\tintuc4.cshtml",
-              "ToolTip": "D:\\model 2\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\tintuc4.cshtml",
+              "ToolTip": "D:\\1\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\tintuc4.cshtml",
               "RelativeToolTip": "KoiProject.WebApplication\\Pages\\tintuc4.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAGcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAGcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T07:38:17.079Z",
               "EditorCaption": ""
@@ -58,22 +57,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\model 2\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\Index.cshtml",
+              "DocumentMoniker": "D:\\1\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\model 2\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\1\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\Index.cshtml",
               "RelativeToolTip": "KoiProject.WebApplication\\Pages\\Index.cshtml",
               "ViewState": "AgIAALEAAAAAAAAAAAAAAJYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T07:16:44.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T07:16:44.901Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "tintuc2.cshtml",
-              "DocumentMoniker": "D:\\model 2\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\tintuc2.cshtml",
+              "DocumentMoniker": "D:\\1\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\tintuc2.cshtml",
               "RelativeDocumentMoniker": "KoiProject.WebApplication\\Pages\\tintuc2.cshtml",
-              "ToolTip": "D:\\model 2\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\tintuc2.cshtml",
+              "ToolTip": "D:\\1\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\Pages\\tintuc2.cshtml",
               "RelativeToolTip": "KoiProject.WebApplication\\Pages\\tintuc2.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
