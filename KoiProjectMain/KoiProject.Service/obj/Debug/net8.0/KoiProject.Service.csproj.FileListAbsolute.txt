@@ -103,3 +103,21 @@ D:\duan\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\refint\KoiProje
 D:\duan\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
 D:\duan\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
 D:\duan\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.deps.json
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.runtimeconfig.json
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.dll
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.pdb
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.dll
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.pdb
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.AssemblyReference.cache
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfoInputs.cache
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfo.cs
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.CoreCompileInputs.cache
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.sourcelink.json
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.CopyComplete
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.dll
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\refint\KoiProject.Service.dll
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
+C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
