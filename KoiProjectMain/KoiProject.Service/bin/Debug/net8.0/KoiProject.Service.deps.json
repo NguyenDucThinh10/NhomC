@@ -916,7 +916,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
         },
         "runtime": {
-          "KoiProject.Repositories.dll": {}
+          "KoiProject.Repositories.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

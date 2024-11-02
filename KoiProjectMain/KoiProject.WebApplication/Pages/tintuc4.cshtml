@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Koilover thăm và tặng quà cho nhà tình thương Hương La (Bắc Ninh) </title>
+    <title>Koilover thăm và tặng quà cho nhà tình thương Hương La (Bắc Ninh)</title>
     <style>
         * {
             margin: 0;
@@ -21,14 +21,23 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
+            padding: 20px;
         }
 
         .container {
+            display: flex;
             background-color: white;
             padding: 20px;
             border-radius: 8px;
-            max-width: 600px;
+            max-width: 1000px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            gap: 20px;
+            flex-direction: row-reverse;
+        }
+
+        .content {
+            max-width: 600px;
+            flex: 1;
         }
 
         h1 {
@@ -40,13 +49,6 @@
         .date {
             color: #666;
             font-size: 14px;
-            margin-bottom: 15px;
-        }
-
-        .content {
-            font-size: 16px;
-            line-height: 1.6;
-            color: #333;
             margin-bottom: 15px;
         }
 
@@ -62,45 +64,158 @@
             font-size: 15px;
             margin-top: 15px;
         }
+
+        .sidebar {
+            width: 250px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .sidebar-header {
+            background-color: #0051A4;
+            color: #fff;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            font-weight: bold;
+            border-radius: 4px;
+        }
+
+            .sidebar-header .icon {
+                margin-right: 10px;
+            }
+
+        .sidebar-content .item {
+            display: flex;
+            margin-top: 10px;
+        }
+
+            .sidebar-content .item img {
+                width: 60px;
+                height: 60px;
+                border-radius: 4px;
+                margin-right: 10px;
+            }
+
+        .info p {
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .info span {
+            font-size: 12px;
+            color: #666;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Koilover thăm và tặng quà cho nhà tình thương Hương La (Bắc Ninh)</h1>
-        <p class="date">🗓️ Ngày đăng: 27/01/2022</p>
-        <p class="content">
-            Một năm khó khăn vì dịch covid 19 đối với tất cả mọi người, sẽ càng khó khăn hơn với những trẻ em tật nguyền và vô gia cư tại nhà tình thương Hương La.
-            Chiều cuối năm, chúng tôi ghé nơi đây, không khí có vẻ vắng lặng hơn bình thường.
-            Một số em được gia đình đón về ăn tết, còn một số em vô gia cư thì ở lại ăn tết cùng các sơ.
-        </p>
-        <img src="~/Images/tintuc4/anh1.jpg" alt="Distribution Agreement" class="agreement-image">
-        <p class="additional-text">
-            hình ảnh sơ ra đoán
-        </p>
-        <img src="~/Images/tintuc4/anh2.jpg" alt="Distribution Agreement" class="agreement-image">
-        <p class="additional-text">
-            Các em vô gia cư ở lại ăn tết tại nhà tình thương
-        </p>
-        <p class="additional-text">
-            Với tình yêu thương bao la, các sơ ở đây đã rất nhiều năm đón và chăm sóc cho các bé bị bỏ rơi, tàn tật.
-            Các bé rất ngoan, gặp người lạ đến đều lễ phép chào hỏi, tươi cười nói chuyện.
-            Như một cái duyên lành, Koilover thay mặt anh em yêu Koi tại Việt Nam, san sẻ chút tấm lòng tới các em và các sơ tại đây.
-        </p>
-        <p class="additional-text">
-            Hy vọng rằng, sự nhân văn của anh em yêu Koi sẽ được lan toả, tình yêu thương sẽ sưởi ấm cho những mảnh đời khó khăn bất hạnh.
-            Chúc các em và các sơ cũng như tất cả mọi người có một cái tết thật an lành và yên vui.
-        </p>
-        <p class=" additional-text">
-            Chương trình “Tặng Quà Tình Thương” không chỉ là một hoạt động từ thiện đơn thuần, mà còn thể hiện cam kết của KoiLover đối với cộng đồng.
-            Mục tiêu chính của chương trình là hỗ trợ các hộ gia đình khó khăn, trẻ em mồ côi, và những người có hoàn cảnh đặc biệt.
-            Thông qua những món quà nhỏ nhưng chứa đựng tình yêu và sự quan tâm, KoiLover hy vọng có thể mang lại niềm vui và hy vọng mới cho họ.
-        </p>
-        <img src="~/Images/tintuc4/anh3.jpg" alt="Distribution Agreement" class="agreement-image">
-        <h2>Lời kết </h2>
-        <p class="content">
-            Chương trình “Tặng Quà Tình Thương” của KoiLover đã chứng minh rằng, khi cộng đồng cùng nhau chung tay, mọi thứ đều trở nên tốt đẹp hơn.
-            Đó không chỉ là hành động chia sẻ vật chất, mà còn là cách truyền tải yêu thương, hy vọng và niềm tin vào một cuộc sống tốt đẹp hơn.
-        </p>
+        <!-- Sidebar Section on the Right Side -->
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <i class="icon">📄</i>
+                <span>GÓC CHỮA BỆNH</span>
+            </div>
+            <div class="sidebar-content">
+                <div class="item">
+                    <img src="~/Images/600cakoi/mang.png" alt="Hội chứng bệnh Thối vây - Thối mang">
+                    <div class="info">
+                        <p><a href="#">Hội chứng bệnh Thối vây - Thối mang</a></p>
+                        <span>22/12/2021</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/trung-loa.jpg" alt="Trùng loa kèn (Epistylis) ở cá Koi">
+                    <div class="info">
+                        <p><a href="#">Trùng loa kèn (Epistylis) ở cá Koi</a></p>
+                        <span>22/12/2021</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/tri-benh.png" alt="Cách nhận biết, phòng ngừa và xử lý bệnh">
+                    <div class="info">
+                        <p><a href="#">Cách nhận biết, phòng ngừa và xử lý bệnh</a></p>
+                        <span>22/12/2021</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/mat-loi.jpg" alt="Bệnh Popeye (lồi mắt) ở cá Koi - Cách chữa">
+                    <div class="info">
+                        <p><a href="#">Bệnh Popeye (lồi mắt) ở cá Koi - Cách chữa</a></p>
+                        <span>22/12/2021</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/nam.jpg" alt="Bệnh nấm mang ở cá chép Koi">
+                    <div class="info">
+                        <p><a href="#">Bệnh nấm mang ở cá chép Koi</a></p>
+                        <span>13/03/2021</span>
+                    </div>
+                </div>
+            </div>
+            <div class="sidebar-header">
+                <i class="icon">📄</i>
+                <span>TIN CỘNG ĐỒNG</span>
+            </div>
+            <div class="sidebar-content">
+                <div class="item">
+                    <img src="~/images/600cakoi/trien-lam.png" alt="600 con cá koi Nhật thi triển lãm cá koi">
+                    <div class="info">
+                        <p><a href="600cakoi">600 con cá koi Nhật thi triển lãm cá koi</a></p>
+                        <span>28/06/2024</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/co-giao.png" alt="Thiện Nguyện Hà Giang Yêu Thương">
+                    <div class="info">
+                        <p><a href="tintuc2">Thiện Nguyện "Hà Giang Yêu Thương" tại...</a></p>
+                        <span>05/04/2024</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/tem-gia.jpg" alt="Koilover thăm và tặng quà cho nhà tình nguyện ">
+                    <div class="info">
+                        <p><a href="tintuc4">Koilover thăm và tặng quà cho nhà tình thương Hương La (Bắc Ninh)</a></p>
+                        <span>13/11/2023</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/tinh-nguyen.png" alt="Koilover thăm và tặng quà cho nhà tình thương Hương La (Bắc Ninh) ">
+                    <div class="info">
+                        <p><a href="tintuc6">Chương trình khuyến mãi hấp dẫn tháng 8 </a></p>
+                        <span>13/04/2022</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content Section -->
+        <div class="content">
+            <h1>Koilover thăm và tặng quà cho nhà tình thương Hương La (Bắc Ninh)</h1>
+            <p class="date">🗓️ Ngày đăng: 27/01/2022</p>
+            <p>
+                Một năm khó khăn vì dịch covid 19 đối với tất cả mọi người, sẽ càng khó khăn hơn với những trẻ em tật nguyền và vô gia cư tại nhà tình thương Hương La.
+                Chiều cuối năm, chúng tôi ghé nơi đây, không khí có vẻ vắng lặng hơn bình thường.
+                Một số em được gia đình đón về ăn tết, còn một số em vô gia cư thì ở lại ăn tết cùng các sơ.
+            </p>
+            <img src="~/Images/tintuc4/anh1.jpg" alt="Distribution Agreement" class="agreement-image">
+            <p class="additional-text">hình ảnh sơ ra đoán</p>
+            <img src="~/Images/tintuc4/anh2.jpg" alt="Distribution Agreement" class="agreement-image">
+            <p class="additional-text">Các em vô gia cư ở lại ăn tết tại nhà tình thương</p>
+            <p class="additional-text">
+                Với tình yêu thương bao la, các sơ ở đây đã rất nhiều năm đón và chăm sóc cho các bé bị bỏ rơi, tàn tật.
+                Các bé rất ngoan, gặp người lạ đến đều lễ phép chào hỏi, tươi cười nói chuyện.
+                Như một cái duyên lành, Koilover thay mặt anh em yêu Koi tại Việt Nam, san sẻ chút tấm lòng tới các em và các sơ tại đây.
+            </p>
+            <img src="~/Images/tintuc4/anh3.jpg" alt="Distribution Agreement" class="agreement-image">
+            <p class="additional-text">
+                Hy vọng một năm mới bình an và khỏe mạnh, mọi điều tốt lành sẽ đến với mọi người.
+                Chúng tôi trân trọng cảm ơn các nhà tài trợ, mạnh thường quân đã đồng hành cùng chúng tôi trong năm qua.
+            </p>
+        </div>
     </div>
 </body>
 </html>
