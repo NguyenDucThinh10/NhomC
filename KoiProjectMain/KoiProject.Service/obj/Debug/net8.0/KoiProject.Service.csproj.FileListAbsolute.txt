@@ -121,3 +121,21 @@ C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\refint\KoiP
 C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
 C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
 C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.deps.json
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.runtimeconfig.json
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.dll
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.pdb
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.dll
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.pdb
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.AssemblyReference.cache
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfoInputs.cache
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfo.cs
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.sourcelink.json
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProje.14F2F364.Up2Date
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.dll
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\refint\KoiProject.Service.dll
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll

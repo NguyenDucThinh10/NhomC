@@ -974,3 +974,15 @@ C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\refi
 C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.pdb
 C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.genruntimeconfig.cache
 C:\cnpm btl\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\ref\KoiProject.WebApplication.dll
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.csproj.AssemblyReference.cache
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.AssemblyInfoInputs.cache
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.AssemblyInfo.cs
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.RazorAssemblyInfo.cache
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.RazorAssemblyInfo.cs
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.sourcelink.json
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.dll
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\refint\KoiProject.WebApplication.dll
+C:\Users\tcv18\OneDrive\Desktop\btt\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.pdb
