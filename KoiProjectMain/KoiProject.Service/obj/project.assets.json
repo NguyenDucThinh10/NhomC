@@ -4020,24 +4020,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\PHU\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
+      "projectUniqueName": "D:\\bai tap\\Congnghephanmem\\baitaplon\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
       "projectName": "KoiProject.Service",
-      "projectPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Service\\obj\\",
+      "projectPath": "D:\\bai tap\\Congnghephanmem\\baitaplon\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
+      "packagesPath": "C:\\Users\\PHU\\.nuget\\packages\\",
+      "outputPath": "D:\\bai tap\\Congnghephanmem\\baitaplon\\NhomC\\KoiProjectMain\\KoiProject.Service\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\PHU\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4051,8 +4046,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {
-              "projectPath": "D:\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj"
+            "D:\\bai tap\\Congnghephanmem\\baitaplon\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {
+              "projectPath": "D:\\bai tap\\Congnghephanmem\\baitaplon\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj"
             }
           }
         }
@@ -4061,11 +4056,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4095,7 +4085,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
