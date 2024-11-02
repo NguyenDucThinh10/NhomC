@@ -157,6 +157,7 @@ D:\1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\refint\KoiProject.
 D:\1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
 D:\1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
 D:\1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
+<<<<<<< HEAD
 C:\cnpm btl\NhomC\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.deps.json
 C:\cnpm btl\NhomC\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.runtimeconfig.json
 C:\cnpm btl\NhomC\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.dll
@@ -175,3 +176,23 @@ C:\cnpm btl\NhomC\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\refin
 C:\cnpm btl\NhomC\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
 C:\cnpm btl\NhomC\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
 C:\cnpm btl\NhomC\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
+=======
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.deps.json
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.runtimeconfig.json
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.dll
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.pdb
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.dll
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.pdb
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.AssemblyReference.cache
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfoInputs.cache
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfo.cs
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.CoreCompileInputs.cache
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.sourcelink.json
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProje.14F2F364.Up2Date
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.dll
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\refint\KoiProject.Service.dll
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
+D:\code\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
+>>>>>>> 2b4e43a104ddec7c02a7143ac9c3d25e9c0cb3d5
