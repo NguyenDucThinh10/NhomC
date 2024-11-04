@@ -1,0 +1,157 @@
+﻿/* Tạo nền bằng hình ảnh cho header */
+header {
+    background-image: url('/Images/bgr.jpg'); /* Đường dẫn hình ảnh mới */
+    background-size: cover; /* Đảm bảo hình ảnh phủ toàn bộ header */
+    background-position: 80%; /* Đẩy phần hình ảnh chứa nhiều cá lên trên */
+    background-repeat: no-repeat;
+    height: 40px; /* Điều chỉnh chiều cao để hiển thị phần ảnh mong muốn */
+    padding: 20px 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Căn chỉnh logo và liên kết trong header */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.navbar-brand img {
+    height: 50px; /* Kích thước logo */
+}
+
+.navbar-nav {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white; /* Màu chữ liên kết */
+    font-weight: bold;
+}
+
+    .nav-link:hover {
+        color: #ddd; /* Hiệu ứng hover cho liên kết */
+    }
+/*** Footer Start ***/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    /*color: #ddd;*/
+    background-color: #333;
+}
+
+.footer {
+    background-color: #111;
+    color: #ddd;
+    padding: 50px 0;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footer-column {
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
+}
+
+    .footer-column h3 {
+        font-size: 18px;
+        margin-bottom: 20px;
+        color: #fff;
+    }
+
+    .footer-column p,
+    .footer-column a {
+        font-size: 14px;
+        line-height: 1.8;
+        color: #ddd;
+        text-decoration: none;
+    }
+
+        .footer-column a:hover {
+            color: #ffcc00;
+        }
+
+    .footer-column ul {
+        list-style: none;
+    }
+
+        .footer-column ul li {
+            margin-bottom: 10px;
+        }
+
+            .footer-column ul li::before {
+                content: "✔";
+                margin-right: 10px;
+                color: #ffcc00;
+            }
+
+.contact-info li {
+    display: flex;
+    align-items: center;
+}
+
+    .contact-info li i {
+        margin-right: 10px;
+        color: #ffcc00;
+    }
+
+.footer-bottom {
+    background-color: #000;
+    padding: 20px 0;
+    text-align: center;
+}
+
+    .footer-bottom .social-icons a {
+        display: inline-block;
+        margin: 0 5px;
+        color: #111;
+        background-color: #ffcc00;
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+    }
+
+    .footer-bottom p {
+        font-size: 14px;
+        color: #ddd;
+        margin: 5px 0;
+    }
+
+    .footer-bottom a {
+        color: #ffcc00;
+        text-decoration: none;
+    }
+
+        .footer-bottom a:hover {
+            text-decoration: underline;
+        }
+
+/*** Footer End ***/

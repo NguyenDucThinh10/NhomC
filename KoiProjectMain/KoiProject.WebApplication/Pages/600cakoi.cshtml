@@ -1,0 +1,251 @@
+﻿@page
+@{
+    ViewData["Title"] = "Tin tức";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Triển Lãm Cá Koi</title>
+
+    <style>
+        .container {
+            max-width: 1200px;
+            display: flex;
+            gap: 20px;
+        }
+
+        .content {
+            width: 70%;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+            .content h1 {
+                font-size: 24px;
+                color: #333;
+                margin-bottom: 10px;
+            }
+
+            .content .date {
+                font-size: 14px;
+                color: #888;
+                margin-bottom: 15px;
+            }
+
+            .content p {
+                font-size: 16px;
+                color: #333;
+                line-height: 1.6;
+                margin-bottom: 20px;
+            }
+
+            .content img {
+                width: 100%;
+                height: auto;
+                border-radius: 5px;
+            }
+
+        .sidebar {
+            width: 30%;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        .sidebar-header {
+            background-color: #0051A4;
+            color: #fff;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            font-weight: bold;
+        }
+
+            .sidebar-header .icon {
+                margin-right: 10px;
+            }
+
+        .sidebar-content {
+            padding: 10px;
+        }
+
+        .item {
+            display: flex;
+            margin-bottom: 10px;
+        }
+
+            .item:last-child {
+                margin-bottom: 0;
+            }
+
+            .item img {
+                width: 60px;
+                height: 60px;
+                border-radius: 4px;
+                margin-right: 10px;
+            }
+
+        .info {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+            .info p {
+                font-size: 14px;
+                font-weight: bold;
+                margin-bottom: 5px;
+            }
+
+            .info span {
+                font-size: 12px;
+                color: #666;
+            }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="content">
+            <h1>600 con cá koi Nhật thi triển lãm cá koi toàn quốc 2024</h1>
+            <p class="date">Ngày đăng: 28/06/2024</p>
+            <p>
+                Đến hẹn lại lên, ngày 22-23/6 vừa qua, triển lãm cá koi lớn nhất Việt Nam – All Vietnam Koi Show lần thứ
+                7 đã diễn ra tại nhà thi đấu Quân khu 7 (quận Phú Nhuận, TP.HCM). Năm nay, triển lãm có quy mô hơn 198
+                tank (hồ chứa cá) dự thi, gần 600 con cá koi. Thành phần ban giám khảo tham gia chấm điểm cuộc thi là
+                những chủ trại cá koi nổi tiếng tại Nhật Bản, Malaysia và Thái Lan. Đặc biệt lần đầu tiên ở Việt Nam
+                xuất hiện con cá koi Nhật dòng da trơn, đơn sắc dài 1,05m tham gia thi đấu.
+            </p>
+            <figure>
+                <img src="~/images/600cakoi/trien-lam.png" alt="Hình ảnh triển lãm cá koi">
+                <figcaption>hình ảnh triển lảm cá koi</figcaption>
+            </figure>
+
+            <p>
+                Theo ông Trịnh Hiếu Thiện, thành viên ban tổ chức, quy mô triển lãm năm nay có hơn 600 con cá dự thi, được sắp xếp chứa trong 200 tank (bể chứa cá). Dàn cá tham gia "đọ sắc" sẽ được chấm thi bởi dàn giám khảo uy tín đến từ Nhật Bản, Thái Lan và Malaysia.
+
+            </p>
+            <img src="~/images/600cakoi/giam-khao1.png" alt="hình ảnh giám khảo chấm thi" />
+            <img src="~/images/600cakoi/giam-khao2.png" alt="hình ảnh giám khảo chấm thi" />
+            <img src="~/images/600cakoi/giam-khao3.png" alt="hình ảnh giám khảo chấm thi" />
+            <p>Giám khảo chấm thi</p>
+
+            <img src="~/images/600cakoi/cup.jpg" alt="cup" />
+            <p>
+                Cuộc thi được chia thành 4 bảng đấu, với hơn 60 dòng cá koi khác nhau. Bảng A gồm 3 dòng chính của cá koi: Kohaku, Showa và Sanke; bảng B gồm các dòng màu đối lập Hi/Ki Utsuri và Shiro, bảng C tất cả các dòng còn lại trừ đơn sắc 1 màu và bảng D là dòng đơn sắc 1 màu.
+            </p>
+
+            <img src="~/images/600cakoi/koi-do.jpg" alt="cá koi" />
+            <p>Đa số những con cá koi tại triển lãm có cân nặng lên đến hơn 100kg. Vì vậy cần đến 3-4 người mới có thể vận chuyển cá vào các bể chứa, trưng bày cho khách tham quan.</p>
+
+            <img src="~/images/600cakoi/dam-koi.webp" alt="cá koi" />
+            <p>Cá dự thi sẽ được chấm điểm theo tiêu chí "nhất dáng, nhì da", phải đạt chuẩn về kích thước, cân nặng, màu sắc và hoa văn trên da của cá.</p>
+
+            <img src="~/images/600cakoi/koi5.png" alt="Alternate Text" />
+            <p>Triển lãm thu hút đông đảo người dân đến chiêm ngưỡng những con cá koi có giá trị cả tỷ đồng.</p>
+
+            <img src="~/images/600cakoi/nguoi-xem.png" alt="Alternate Text" />
+            <p>Khách tham quan thích thú ngắm và nghe chủ cá chia sẻ về "cá cưng" của họ</p>
+
+            <img src="~/images/600cakoi/koi.png" alt="Alternate Text" />
+            <p>Cá koi ngủ với đôi mắt mở, vì đa số loài cá thường không có mí mắt. Do vậy một số bể chứa sẽ được các chủ cá che lại bằng những tấm lưới, nhằm giảm bớt ánh sáng, giúp cá có thể ngủ và nghỉ ngơi, bảo tồn năng lượng sau khoảng thời gian dài được khách tham quan ngắm nghía.</p>
+
+            <img src="~/images/600cakoi/koi2.jpg" alt="Alternate Text" />
+            <p>Là một koi kichi (người đam mê nuôi cá koi lâu năm), ông Phạm Phước Tài chia sẻ: "Đây là năm thứ hai liên tiếp tôi đạt giải nhất tại Koi Show. Để mang cá đến dự thi, tôi phải vận chuyển bằng máy bay vào TPHCM".</p>
+
+
+            <img src="~/images/600cakoi/koi3.png" alt="Alternate Text" />
+            <p>Đây là lần thứ 7 triển lãm Koi Show được tổ chức tại Việt Nam. Triển lãm tổ chức nhằm giới thiệu cho người dân về thú chơi và những con cá koi đẹp, đồng thời tạo sân chơi giao lưu, học hỏi chuyên môn giữa những người chơi cá.</p>
+        </div>
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <i class="icon">📄</i>
+                <span>GÓC CHỮA BỆNH</span>
+            </div>
+            <div class="sidebar-content">
+                <div class="item">
+                    <img src="~/Images/600cakoi/mang.png" alt="Hội chứng bệnh Thối vây - Thối mang">
+                    <div class="info">
+                        <p><a href="#">Hội chứng bệnh Thối vây - Thối mang</a></p>
+                        <span>22/12/2021</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/trung-loa.jpg" alt="Trùng loa kèn (Epistylis) ở cá Koi">
+                    <div class="info">
+                        <p><a href="#">Trùng loa kèn (Epistylis) ở cá Koi</a></p>
+                        <span>22/12/2021</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/tri-benh.png" alt="Cách nhận biết, phòng ngừa và xử lý bệnh">
+                    <div class="info">
+                        <p><a href="#">Cách nhận biết, phòng ngừa và xử lý bệnh</a></p>
+                        <span>22/12/2021</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/mat-loi.jpg" alt="Bệnh Popeye (lồi mắt) ở cá Koi - Cách chữa">
+                    <div class="info">
+                        <p><a href="#">Bệnh Popeye (lồi mắt) ở cá Koi - Cách chữa</a></p>
+                        <span>22/12/2021</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/nam.jpg" alt="Bệnh nấm mang ở cá chép Koi">
+                    <div class="info">
+                        <p><a href="#">Bệnh nấm mang ở cá chép Koi</a></p>
+                        <span>13/03/2021</span>
+                    </div>
+                </div>
+            </div>
+            <div class="sidebar-header">
+                <i class="icon">📄</i>
+                <span>TIN CỘNG ĐỒNG</span>
+            </div>
+            <div class="sidebar-content">
+                <div class="item">
+                    <img src="~/images/600cakoi/trien-lam.png" alt="600 con cá koi Nhật thi triển lãm cá koi">
+                    <div class="info">
+                        <p><a href="#">600 con cá koi Nhật thi triển lãm cá koi</a></p>
+                        <span>28/06/2024</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/co-giao.png" alt="Thiện Nguyện Hà Giang Yêu Thương">
+                    <div class="info">
+                        <p><a href="#">Thiện Nguyện "Hà Giang Yêu Thương" tại...</a></p>
+                        <span>05/04/2024</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/tem-gia.jpg" alt="Koilover triển khai tem chống hàng giả">
+                    <div class="info">
+                        <p><a href="#">Koilover triển khai tem chống hàng giả</a></p>
+                        <span>13/11/2023</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="~/Images/600cakoi/tinh-nguyen.png" alt="LỄ TRAO GIẢI KOILOVER’S 1st">
+                    <div class="info">
+                        <p><a href="#">LỄ TRAO GIẢI KOILOVER’S 1st</a></p>
+                        <span>13/04/2022</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>
+
