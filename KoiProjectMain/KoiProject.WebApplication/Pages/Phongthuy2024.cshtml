@@ -1,58 +1,287 @@
 ﻿@page
 @model KoiProject.WebApplication.Pages.Phongthuy2024Model
+
+
 @{
 }
-<!-- lấy cảm hứng từ blog-->
 
-<div class=" Phongthuy">
+<div class="Phongthuy">
     <div class="header-blog">Phong Thủy</div>
     <div class="subheader">
-        Một blog Phong thủy hàng đầu và kho kiến thức bao gồm tất cả các khía cạnh của nghệ thuật cổ
-        xưa này
+        Một blog Phong thủy hàng đầu và kho kiến thức bao gồm tất cả các khía cạnh của nghệ thuật cổ xưa này
     </div>
 
     <div class="container-blog">
-        <div class="category">
+        <!-- Chủ đề 1: Trang chủ & Trang trí -->
+        <div class="category" onclick="toggleArticles('homeDecor')">
             <img src="~/Images/Tranh-Phong-Khach.jpg" alt="Trang chủ & Trang trí">
             <div class="category-title"><a href="#">Trang chủ & Trang trí</a></div>
         </div>
-        <div class="category">
+
+        <!-- Chủ đề 2: Văn phòng & Sự nghiệp -->
+        <div class="category" onclick="toggleArticles('officeCareer')">
             <img src="~/Images/anh-van-phong.jpg" alt="Văn phòng & Sự nghiệp">
             <div class="category-title"><a href="#">Văn phòng & Sự nghiệp</a></div>
         </div>
-        <div class="category">
+
+        <!-- Chủ đề 3: Chữa bệnh & Tăng cường -->
+        <div class="category" onclick="toggleArticles('healthEnhance')">
             <img src="~/Images/su-tu-da.jpg" alt="Chữa bệnh & Tăng cường">
             <div class="category-title"><a href="#">Chữa bệnh & Tăng cường</a></div>
         </div>
-        <div class="category">
+
+        <!-- Chủ đề 4: Sự giàu có -->
+        <div class="category" onclick="toggleArticles('wealth')">
             <img src="~/Images/tien.jpg" alt="Sự giàu có">
             <div class="category-title"><a href="#">Sự giàu có</a></div>
         </div>
-        <div class="category">
+
+        <!-- Chủ đề 5: Yêu -->
+        <div class="category" onclick="toggleArticles('love')">
             <img src="~/Images/tinh-yeu.jpg" alt="Yêu">
             <div class="category-title"><a href="#">Yêu</a></div>
         </div>
-        <div class="category">
+
+        <!-- Chủ đề 6: Nhân tướng học -->
+        <div class="category" onclick="toggleArticles('physiognomy')">
             <img src="~/Images/nhan-tuong-hoc.jpg" alt="Nhân tướng học">
             <div class="category-title"><a href="#">Nhân tướng học</a></div>
         </div>
-        <div class="category">
+
+        <!-- Chủ đề 7: Truyền thống -->
+        <div class="category" onclick="toggleArticles('tradition')">
             <img src="~/Images/truyen-thong.jpg" alt="Truyền thống">
             <div class="category-title"><a href="#">Truyền thống</a></div>
         </div>
-        <div class="category">
+
+        <!-- Chủ đề 8: Phong cách sống -->
+        <div class="category" onclick="toggleArticles('lifestyle')">
             <img src="~/Images/phong-cach-song.jpg" alt="Phong cách sống">
             <div class="category-title"><a href="#">Phong cách sống</a></div>
         </div>
-        <div class="category">
+
+        <!-- Chủ đề 9: Phong thủy hàng năm -->
+        <div class="category" onclick="toggleArticles('annualFengShui')">
             <img src="~/Images/phong-thuy-hang-nam.jpg" alt="Phong thủy hàng năm">
             <div class="category-title"><a href="#">Phong thủy hàng năm</a></div>
         </div>
-        <div class="category">
+
+        <!-- Chủ đề 10: Pha lê -->
+        <div class="category" onclick="toggleArticles('crystals')">
             <img src="~/Images/pha-le.jpg" alt="Pha lê">
             <div class="category-title"><a href="#">Pha lê</a></div>
         </div>
     </div>
+
+    <!-- Danh sách bài viết cho từng danh mục -->
+    <div id="homeDecor" class="articleList" style="display: none;">
+        <h2>Trang chủ & Trang trí</h2>
+        <ul>
+            <li><a href="https://kingofficehcm.com/bo-tri-ban-lam-viec-trong-phong-ngu/">Phong thủy đặt bàn làm việc trong phòng ngủ – Năng lượng tốt hay xấu? </a>></li>
+            <li><a href="https://www.elle.vn/feature/quy-luat-phong-thuy-khong-gian-may-man">8 mẹo phong thủy cho trung tâm ngôi nhà của bạn để mang lại may mắn</a></li>
+            <li><a href ="https://www.oneday.com.vn/blog/phong-thuy-bep-va-chau-rua/">5 điều cần biết về phong thủy cửa sổ phía trên bồn rửa nhà bếp</a></li>
+            <li><a href ="https://ninhbinhstone.com.vn/chon-va-su-dung-dai-phun-nuoc-phong-thuy/">mẹo phong thủy đài phun nước hữu ích mang lại may mắn</a></li>
+        </ul>
+    </div>
+
+    <div id="officeCareer" class="articleList" style="display: none;">
+        <h2>Văn phòng & Sự nghiệp</h2>
+        <ul>
+            <li><a href ="https://amore-architecture.vn/hoa-giai-cac-vi-tri-xau-trong-khu-vuc-lam-viec/">bàn làm việc hướng về của sổ - Bố trí phong thủy tốt hay xấu?</a></li>
+            <li><a href ="https://ngoisao.vnexpress.net/7-cay-phong-thuy-hut-may-man-tai-loc-nen-de-tren-ban-lam-viec-4395338.html">7 loại cây phong thủy may mắn tuyệt vời cho bàn làm việc văn phòng</a></li>
+            <li><a href="https://vi.alongwalker.co/lam-the-nao-de-cung-cap-nang-luong-va-phong-thuy-cho-may-tinh-de-ban-cua-ban-de-thanh-cong-trong-su-nghiep-s241539.html">Làm thế nào để tiếp thêm năng lượng và phong thủy cho máy tính để bàn để thành công trong sự nghiệp?</a></li>
+            <li><a href="https://vi.alongwalker.co/7-loi-khuyen-de-cai-thien-phong-thuy-danh-thiep-cua-ban-ngay-hom-nay-de-duoc-chu-y-s240414.html">7 Mẹo Cải Thiện Phong Thủy Cho Danh Thiếp Của Bạn Ngay Hôm Nay Để Được Chú Ý</a></li>
+        </ul>
+    </div>
+
+    <div id="healthEnhance" class="articleList" style="display: none;">
+        <h2>Chữa bệnh & Tăng cường</h2>
+        <ul>
+            <li><a href="https://tieucanhmini.com.vn/hieu-y-nghia-cua-cac-bieu-tuong-pho-bien-trong-phong-thuy/">Biểu tượng phong thủy và ý nghĩa của chúng</a></li>
+            <li><a href="https://vi.alongwalker.co/cay-pha-le-thach-anh-tim-vi-tri-trong-nha-de-co-phong-thuy-tot-s240481.html">cây pha lê thạch anh tím mang lại phong thủy tốt</a></li>
+            <li><a href="https://linhvatphongthuy.com.vn/cach-dat-tuong-rong-phong-thuy-dem-den-may-man-su-thinh-vuong">Mẹo Để Có Được May Mắn Với Rồng Phong Thủy</a></li>
+            <li><a href="https://xemboi.com.vn/guong-bat-quai-y-nghia-va-cach-su-dung-theo-phong-thuy/">Gương Bát Quái Phong Thủy - 5 Điều Cần Biết Trước Khi Sử Dụng</a></li>
+        </ul>
+    </div>
+
+    <div id="wealth" class="articleList" style="display: none;">
+        <h2>Sự giàu có</h2>
+        <ul>
+            <li><a href="https://phongthuyvuong.com/kien-thuc/vat-pham-phong-thuy-thu-hut-tai-loc">Các linh vật phong thủy thu hút tài lộc</a></li>
+            <li><a href="https://celadonboulevard.com.vn/blogs/phong-thuy/vi-tri-dat-cay-phong-thuy-trong-nha">Cách đặt cây phong thủy để gia tăng tài vận</a></li>
+            <li><a href="https://ngoisao.vnexpress.net/9-meo-phong-thuy-hut-tai-loc-vao-nha-4363966.html">Phong thủy cho khu vực tài lộc trong ngôi nhà</a></li>
+            <li><a href ="https://www.elle.vn/bi-quyet-song/su-dung-mau-sac-phong-thuy-thu-hut-tai-loc">Những màu sắc mang lại tài lộc và thịnh vượng</a></li>
+        </ul>
+    </div>
+
+    <div id="love" class="articleList" style="display: none;">
+        <h2>Yêu</h2>
+        <ul>
+            <li><a href="https://lichngaytot.com/phong-thuy/cach-kich-hoat-cung-tinh-duyen-284-216885.html">Cách sử dụng biểu tượng phong thủy để cải thiện tình duyên</a></li>
+            <li><a href="https://anlocgroup.com/phong-thuy-phong-ngu/">Phong thủy cho phòng ngủ để tăng cường hạnh phúc gia đình</a></li>
+            <li><a href="https://vi.alongwalker.co/7-cach-sap-xep-nha-cua-ruoc-may-man-va-tinh-yeu-s320847.html">Cách sắp xếp nhà cửa thu hút năng lượng tình yêu</a></li>
+            <li><a href="https://ngoisao.vnexpress.net/8-meo-phong-thuy-giup-cai-thien-tinh-duyen-va-hon-nhan-4359385.html">Những mẹo phong thủy giúp cải thiện mối quan hệ tình cảm</a></li>
+        </ul>
+    </div>
+
+    <div id="physiognomy" class="articleList" style="display: none;">
+        <h2>Nhân tướng học</h2>
+        <ul>
+            <li><a href="https://phongthuynguyenhoang.com/xem-nhan-tuong-hoc/">Nhân tướng học và phong thủy: Cách xác định nét tướng tốt</a></li>
+            <li><a href="https://thientue.vn/13-dac-diem-nhan-tuong-hoc-noi-len-tinh-cach-va-van-so-cua-con-nguoi">Tìm hiểu nhân tướng học để dự đoán vận mệnh</a></li>
+            <li><a href="https://phongthuyvuong.com/kien-thuc/xem-tuong-qua-13-bo-vi-tren-khuon-mat">Các dấu hiệu trên khuôn mặt và ý nghĩa phong thủy</a></li>
+            <li><a href="https://phongthuynguyenhoang.com/xem-tuong-mat-phu-nu/">Xem nhân tướng và phong thủy để dự đoán tương lai</a></li>
+        </ul>
+    </div>
+
+    <div id="tradition" class="articleList" style="display: none;">
+        <h2>Truyền thống</h2>
+        <ul>
+            <li><a href="https://vietnammoi.vn/nguon-goc-y-nghia-va-phong-tuc-truyen-thong-cua-tet-trung-thu-co-truyen-141453.htm">Những phong tục truyền thống và ý nghĩa phong thủy</a></li>
+            <li><a href="https://tuvi.vn/tat-tan-tat-ve-vat-pham-phong-thuy-y-nghia-cach-chon-vat-pham-va-ung-dung-trong-a1083">Vật phẩm phong thủy cổ truyền và cách sử dụng đúng</a></li>
+            <li><a href ="https://anhsang.edu.vn/bieu-tuong-may-man-cua-viet-nam/">Các biểu tượng phong thủy phổ biến trong văn hóa Việt Nam</a></li>
+            <li><a href="https://mytour.vn/vi/blog/bai-viet/top-17-phong-tuc-truyen-thong-tai-tet-co-truyen-viet-nam.html">Những phong tục phong thủy truyền thống cần biết</a></li>
+        </ul>
+    </div>
+
+    <div id="lifestyle" class="articleList" style="display: none;">
+        <h2>Phong cách sống</h2>
+        <ul>
+            <li><a href="https://cafebiz.vn/chuyen-gia-phong-thuy-duc-thinh-nguoi-dua-phong-thuy-vao-cuoc-song-hien-dai-176240823160406434.chn">Phong thủy trong phong cách sống hiện đại</a></li>
+            <li><a href="https://www.elle.vn/bi-quyet-song/phong-cach-song-toi-gian">Lối sống tối giản và phong thủy</a></li>
+            <li><a href="https://onehousing.vn/blog/nguyen-tac-thiet-ke-loi-di-trong-nha-dung-phong-thuy-n17t">Nguyên tắc phong thủy cho cuộc sống cân bằng</a></li>
+            <li><a href="https://kimtamcat.com.vn/phong-thuy-la-gi/">Phong thủy trong đời sống hàng ngày</a></li>
+        </ul>
+    </div>
+
+    <div id="annualFengShui" class="articleList" style="display: none;">
+        <h2>Phong thủy hàng năm</h2>
+        <ul>
+            <li><a href="https://izumi.edu.vn/blog-2/ngu-hanh-nam-2024-vi-cb/">Dự đoán xu hướng phong thủy cho năm mới</a></li>
+            <li><a href="https://phanhoanggia.com/phong-thuy-nha-o/">Lưu ý phong thủy trong năm nay</a></li>
+            <li><a href="https://mytour.vn/vi/blog/bai-viet/tim-hieu-ve-con-giap-theo-nam-sinh-va-cach-tinh-tuoi-can-chi-ngu-hanh.html">Phong thủy cho các con giáp</a></li>
+            <li><a href="https://www.elle.vn/bi-quyet-song/meo-phong-thuy-nam-moi">Cách hóa giải điều xấu theo năm sinh</a></li>
+        </ul>
+    </div>
+
+    <div id="crystals" class="articleList" style="display: none;">
+        <h2>Pha lê</h2>
+        <ul>
+            <li><a href="https://cafef.vn/mot-so-goi-y-xep-dat-pha-le-phong-thuy-cho-ngoi-nha-cua-ban-20210616172220903.chn">Cách chọn và bày trí pha lê phong thủy trong nhà</a></li>
+            <li><a href="https://eropi.com/news/y-nghia-phong-thuy-cua-pha-le-bieu-tuong-cua-diem-tot-lanh/">Ý nghĩa của các loại pha lê trong phong thủy</a></li>
+            <li><a href="https://muaban.net/blog/da-phong-thuy-102771/">Pha lê phong thủy: Những loại đá quý giúp gia tăng vận khí</a></li>
+            <li><a href="https://quatangphale.com.vn/tin-tuc-su-kien/tu-van-qua-tang/binh-hoa-pha-le-va-su-can-bang-nang-luong-trong-phong-thuy-1026.html">Các loại pha lê giúp cân bằng năng lượng trong không gian sống</a></li>
+        </ul>
+    </div>
+
+    <!-- JavaScript để điều khiển hiển thị danh sách bài viết -->
+    <script>
+        function toggleArticles(categoryId) {
+            var articleLists = document.querySelectorAll('.articleList');
+            articleLists.forEach(function (list) {
+                list.style.display = (list.id === categoryId && list.style.display === "none") ? "block" : "none";
+            });
+        }
+    </script>
+
+    <style>
+        /* CSS cho container, danh mục, và danh sách bài viết */
+        .header-blog {
+            text-align: center;
+            font-size: 32px;
+            font-weight: bold;
+            margin-top: 40px;
+            color: #000;
+        }
+
+        .subheader {
+            text-align: center;
+            font-size: 18px;
+            color: #555;
+            margin-bottom: 30px;
+        }
+
+        .container-blog {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .category {
+            position: relative;
+            width: 200px;
+            height: 120px;
+            border-radius: 8px;
+            overflow: hidden;
+            cursor: pointer;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+            .category img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                transition: transform 0.3s ease;
+            }
+
+            .category:hover img {
+                transform: scale(1.1);
+            }
+
+        .category-title {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 10px;
+            color: #fff;
+            font-weight: bold;
+            font-size: 18px;
+            text-align: center;
+            background: rgba(0, 0, 0, 0.5);
+            text-transform: uppercase;
+        }
+
+        .articleList {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            display: none;
+        }
+
+            .articleList h2 {
+                font-size: 24px;
+                color: #333;
+                text-align: center;
+            }
+
+            .articleList ul {
+                list-style-type: none;
+                padding: 0;
+            }
+
+            .articleList li {
+                margin: 10px 0;
+            }
+
+            .articleList a {
+                color: #007bff;
+                text-decoration: none;
+            }
+
+                .articleList a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</div>
+
+
 
     <!--trang trí và nhà của-->
     <div class="container-menu">
@@ -157,10 +386,248 @@
             </div>
         </div>
     </div>
+
+    <!-- Sự giàu có -->
+    <div class="container-menu">
+        <h1><a href="#">SỰ GIÀU CÓ >></a></h1>
+        <p>
+            Những bí quyết phong thủy để thu hút tài lộc, gia tăng sự thịnh vượng và thành công tài chính trong cuộc sống.
+        </p>
+        <div class="card-grid">
+            <div class="card">
+                <img src="/Images/img_9339-edit.jpg" alt="Linh vật tài lộc">
+                <div class="content">
+                    <h3><a href="https://phongthuyvuong.com/kien-thuc/vat-pham-phong-thuy-thu-hut-tai-loc">Các linh vật phong thủy thu hút tài lộc</a></h3>
+                </div>
+            </div>
+            <div class="card">
+                <img src="/Images/trau-ba-de-vuong-e1641362157850.jpg" alt="Cây phong thủy tài lộc">
+                <div class="content">
+                    <h3><a href="https://celadonboulevard.com.vn/blogs/phong-thuy/vi-tri-dat-cay-phong-thuy-trong-nha">Cách đặt cây phong thủy để gia tăng tài vận</a></h3>
+                </div>
+            </div>
+            <div class="card">
+                <img src="/Images/phong-thuy-phong-khach-3-1677244513.jpeg" alt="Khu vực tài lộc">
+                <div class="content">
+                    <h3><a href="https://ngoisao.vnexpress.net/9-meo-phong-thuy-hut-tai-loc-vao-nha-4363966.html">Phong thủy cho khu vực tài lộc trong ngôi nhà</a></h3>
+                </div>
+            </div>
+            <div class="card">
+                <img src="/Images/STTV4-115-80x80cmx03.jpg" alt="Màu sắc tài lộc">
+                <div class="content">
+                    <h3><a href="https://www.elle.vn/bi-quyet-song/su-dung-mau-sac-phong-thuy-thu-hut-tai-loc">Những màu sắc mang lại tài lộc và thịnh vượng</a></h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Yêu -->
+    <div class="container-menu">
+        <h1><a href="#">YÊU >></a></h1>
+        <p>
+            Khám phá những bí quyết phong thủy giúp tăng cường tình duyên, cải thiện mối quan hệ và mang lại hạnh phúc trong cuộc sống.
+        </p>
+        <div class="card-grid">
+            <div class="card">
+                <img src="/Images/th.jpg" alt="Phong thủy tình yêu">
+                <div class="content">
+                    <h3><a href="https://lichngaytot.com/phong-thuy/cach-kich-hoat-cung-tinh-duyen-284-216885.html">Cách sử dụng biểu tượng phong thủy để cải thiện tình duyên</a></h3>
+                </div>
+            </div>
+            <div class="card">
+                <img src="/Images/OIP.jpg" alt="Phong thủy phòng ngủ">
+                <div class="content">
+                    <h3><a href="https://anlocgroup.com/phong-thuy-phong-ngu/">Phong thủy cho phòng ngủ để tăng cường hạnh phúc gia đình</a></h3>
+                </div>
+            </div>
+            <div class="card">
+                <img src="/Images/giai-phap-kien-truc-nhung-cach-giup-tiet-kiem-nang-luong-cho-nha-o-4.jpg" alt="Sắp xếp nhà cửa tình yêu">
+                <div class="content">
+                    <h3><a href="https://vi.alongwalker.co/7-cach-sap-xep-nha-cua-ruoc-may-man-va-tinh-yeu-s320847.html">Cách sắp xếp nhà cửa thu hút năng lượng tình yêu</a></h3>
+                </div>
+            </div>
+            <div class="card">
+                <img src="/Images/7c712753167188cad11df7d0337bae9d.jpg" alt="Phong thủy tình cảm">
+                <div class="content">
+                    <h3><a href="https://ngoisao.vnexpress.net/8-meo-phong-thuy-giup-cai-thien-tinh-duyen-va-hon-nhan-4359385.html">Những mẹo phong thủy giúp cải thiện mối quan hệ tình cảm</a></h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Nhân tướng học -->
+    <div class="container-menu">
+        <h1><a href="#">NHÂN TƯỚNG HỌC >></a></h1>
+        <p>
+            Tìm hiểu nhân tướng học để khám phá ý nghĩa của nét tướng và dự đoán vận mệnh thông qua gương mặt và các dấu hiệu đặc trưng.
+        </p>
+        <div class="card-grid">
+            <div class="card">
+                <img src="/Images/R.jpg" alt="Nhân tướng và phong thủy">
+                <div class="content">
+                    <h3><a href="https://phongthuynguyenhoang.com/xem-nhan-tuong-hoc/">Nhân tướng học và phong thủy: Cách xác định nét tướng tốt</a></h3>
+                </div>
+            </div>
+            <div class="card">
+                <img src="/Images/th (1).jpg" alt="Dự đoán vận mệnh">
+                <div class="content">
+                    <h3><a href="https://thientue.vn/13-dac-diem-nhan-tuong-hoc-noi-len-tinh-cach-va-van-so-cua-con-nguoi">Tìm hiểu nhân tướng học để dự đoán vận mệnh</a></h3>
+                </div>
+            </div>
+            <div class="card">
+                <img src="/Images/3562cc94-a214-4b7f-b85a-1c624fcad910.webp" alt="Dấu hiệu trên khuôn mặt">
+                <div class="content">
+                    <h3><a href="https://phongthuyvuong.com/kien-thuc/xem-tuong-qua-13-bo-vi-tren-khuon-mat">Các dấu hiệu trên khuôn mặt và ý nghĩa phong thủy</a></h3>
+                </div>
+            </div>
+            <div class="card">
+                <img src="/Images/nthh.jpg" alt="Xem tướng và dự đoán">
+                <div class="content">
+                    <h3><a href="https://phongthuynguyenhoang.com/xem-tuong-mat-phu-nu/">Xem nhân tướng và phong thủy để dự đoán tương lai</a></h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Truyền thống -->
+    <div class="container-menu">
+        <h1><a href="#">TRUYỀN THỐNG >></a></h1>
+        <p>
+            Khám phá các phong tục và biểu tượng phong thủy truyền thống, giúp bạn hòa hợp hơn với cuộc sống và văn hóa phong thủy.
+        </p>
+        <div class="card-grid">
+            <div class="card">
+                <img src="/Images/oipp.jpg" alt="Phong tục phong thủy">
+                <div class="content">
+                    <h3><a href="https://vietnammoi.vn/nguon-goc-y-nghia-va-phong-tuc-truyen-thong-cua-tet-trung-thu-co-truyen-141453.htm">Những phong tục truyền thống và ý nghĩa phong thủy</a></h3>
+                </div>
+            </div>
+            <div class="card">
+                <img src="/Images/vat-pham-phong-thuy-ty-huu.jpg" alt="Biểu tượng phong thủy">
+                <div class="content">
+                    <h3><a href="https://tuvi.vn/tat-tan-tat-ve-vat-pham-phong-thuy-y-nghia-cach-chon-vat-pham-va-ung-dung-trong-a1083">Vật phẩm phong thủy cổ truyền và cách sử dụng đúng</a></h3>
+                </div>
+            </div>
+            <div class="card">
+                <img src="/Images/rr.jpg" alt="Biểu tượng trong văn hóa">
+                <div class="content">
+                    <h3><a href="https://anhsang.edu.vn/bieu-tuong-may-man-cua-viet-nam/">Các biểu tượng phong thủy phổ biến trong văn hóa Việt Nam</a></h3>
+                </div>
+            </div>
+            <div class="card">
+                <img src="/Images/oip1.jpg" alt="Phong tục cần biết">
+                <div class="content">
+                    <h3><a href="https://mytour.vn/vi/blog/bai-viet/top-17-phong-tuc-truyen-thong-tai-tet-co-truyen-viet-nam.html">Những phong tục phong thủy truyền thống cần biết</a></h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Phong Cách Sống -->
+    <div class="container-menu">
+        <h1><a href="#">PHONG CÁCH SỐNG  >></a></h1>
+        <p>
+           Tìm hiểu phong thủy trong lối sống hàng ngày, từ đó cải thiện năng lượng tích cực và giúp bạn cân bằng cuộc sống.
+        </p>
+       <div class="card-grid">
+           <div class="card">
+              <img src="/Images/OIP (1).jpg" alt="Phong cách sống hiện đại">
+             <div class="content">
+                <h3><a href="https://cafebiz.vn/chuyen-gia-phong-thuy-duc-thinh-nguoi-dua-phong-thuy-vao-cuoc-song-hien-dai-176240823160406434.chn">Ứng dụng phong thủy vào phong cách sống hiện đại</a></h3>
+             </div>
+           </div>
+           <div class="card">
+              <img src="/Images/OIP (2).jpg" alt="Lối sống tối giản">
+              <div class="content">
+                <h3><a href="https://www.elle.vn/bi-quyet-song/phong-cach-song-toi-gian">Lối sống tối giản và phong thủy: Làm sao để hòa hợp?</a></h3>
+              </div>
+           </div>
+           <div class="card">
+            <img src="/Images/Phong-thuy.jpg" alt="Cân bằng cuộc sống">
+              <div class="content">
+                <h3><a href="https://onehousing.vn/blog/nguyen-tac-thiet-ke-loi-di-trong-nha-dung-phong-thuy-n17t">Những nguyên tắc phong thủy cho lối sống cân bằng</a></h3>
+              </div>
+           </div>  
+           <div class="card">
+            <img src="/Images/OIP (3).jpg" alt="Thực hành phong thủy">
+               <div class="content">
+                <h3><a href="https://kimtamcat.com.vn/phong-thuy-la-gi/">Thực hành phong thủy trong cuộc sống hàng ngày</a></h3>
+                </div>
+           </div>
+       </div>
+    </div>
+     <!-- Phong thủy hàng năm -->
+    <div class="container-menu">
+        <h1><a href="#">PHONG THỦY HẰNG NĂM  >></a></h1>
+        <p>
+            Khám phá các phong tục và biểu tượng phong thủy truyền thống, giúp bạn hòa hợp hơn với cuộc sống và văn hóa phong thủy.
+        </p>
+        <div class="card-grid">
+             <div class="card">
+               <img src="/Images/OIP (4).jpg" alt="Xu hướng phong thủy năm mới">
+               <div class="content">
+                <h3><a href="https://izumi.edu.vn/blog-2/ngu-hanh-nam-2024-vi-cb/">Dự đoán xu hướng phong thủy cho năm mới</a></h3>
+               </div>
+             </div>
+             <div class="card">
+                   <img src="/Images/aa.jpg" alt="Điều cần chú ý trong năm">
+               <div class="content">
+                <h3><a href="https://phanhoanggia.com/phong-thuy-nha-o/">Những điều cần chú ý trong phong thủy năm nay</a></h3>
+               </div>
+             </div>
+             <div class="card">
+                 <img src="/Images/1_zmen.jpg" alt="Phong thủy theo con giáp">
+                <div class="content">
+                <h3><a href="https://mytour.vn/vi/blog/bai-viet/tim-hieu-ve-con-giap-theo-nam-sinh-va-cach-tinh-tuoi-can-chi-ngu-hanh.html">Tìm hiểu phong thủy theo con giáp và năm sinh</a></h3>
+                 </div>
+             </div>
+             <div class="card">
+                  <img src="/Images/meo-phong-thuy-2156.webp" alt="Mẹo phong thủy năm mới">
+                 <div class="content">
+                <h3><a href="https://www.elle.vn/bi-quyet-song/meo-phong-thuy-nam-moi">Các mẹo phong thủy để bắt đầu một năm mới may mắn</a></h3>
+                  </div>
+              </div>
+        </div>
+    </div>
+   <!-- Pha lê -->
+     <div class="container-menu">
+         <h1><a href="#">PHA LÊ >></a></h1>
+         <p>
+             Khám phá ý nghĩa và cách sử dụng pha lê phong thủy, giúp mang lại vận may, năng lượng tích cực và cân bằng không gian.
+         </p>
+         <div class="card-grid">
+             <div class="card">
+                 <img src="/Images/OIP (5).jpg" alt="Pha lê phong thủy">
+                 <div class="content">
+                <h3><a href="https://cafef.vn/mot-so-goi-y-xep-dat-pha-le-phong-thuy-cho-ngoi-nha-cua-ban-20210616172220903.chn">Cách chọn và bày trí pha lê phong thủy trong nhà</a></h3>
+                 </div>
+             </div>
+             <div class="card">
+                 <img src="/Images/OIP (6).jpg" alt="Ý nghĩa các loại pha lê">
+                 <div class="content">
+                <h3><a href="https://eropi.com/news/y-nghia-phong-thuy-cua-pha-le-bieu-tuong-cua-diem-tot-lanh/">Ý nghĩa của các loại pha lê trong phong thủy</a></h3>
+                 </div>
+             </div>
+             <div class="card">
+                 <img src="/Images/R (1).jpg" alt="Đá quý vận khí">
+                 <div class="content">
+                <h3><a href="https://muaban.net/blog/da-phong-thuy-102771/">Pha lê phong thủy: Những loại đá quý giúp gia tăng vận khí</a></h3>
+                 </div>
+             </div>
+             <div class="card">
+                 <img src="/Images/R (2).jpg" alt="Cân bằng năng lượng">
+                 <div class="content">
+                <h3><a href="https://quatangphale.com.vn/tin-tuc-su-kien/tu-van-qua-tang/binh-hoa-pha-le-va-su-can-bang-nang-luong-trong-phong-thuy-1026.html">Các loại pha lê giúp cân bằng năng lượng trong không gian sống</a></h3>
+                 </div>
+             </div>
+         </div>
+     </div>
+
+
+
     <style>
 
 
-        /*lấy cảm hứng từ blog*/
+        
         .header-blog {
             text-align: center;
             font-size: 32px;
