@@ -1,43 +1,24 @@
-﻿using KoiProject.Repositories.Entities;
-using KoiProject.Repositories.Interfaces;
-using KoiProject.Service.Interfaces;
-using KoiProject.Service.Models;
+﻿using KoiProject.Repositories.Interfaces;
+using KoiProject.Repositories.Repositories;
 using System.Collections.Generic;
+using System.Threading.Tasks;
+using KoiProject.Repositories.Entities;
+using KoiProject.Service.Interfaces;
+namespace KoiProject.Service.Services;
 
-namespace KoiProject.Service
+public class KoiConsultationService : IKoiConsultationService
 {
-    public class ConsultationService : IConsultationService
+    private readonly IKoiRepository _koiRepository;
+
+    public KoiConsultationService(IKoiRepository koiRepository)
     {
-        private readonly IKoiSpeciesRepository _koiSpeciesRepository;
-        private readonly IPondFeaturesRepository _pondFeaturesRepository;
+        _koiRepository = koiRepository;
+    }
 
-        public ConsultationService(IKoiSpeciesRepository koiSpeciesRepository,
-                                   IPondFeaturesRepository pondFeaturesRepository)
-        {
-            _koiSpeciesRepository = koiSpeciesRepository;
-            _pondFeaturesRepository = pondFeaturesRepository;
-        }
-
-        public ConsultationResult GetConsultation(string gender, int birthYear, string element, string preference)
-        {
-            var recommendedKoi = _koiSpeciesRepository.GetKoiSpeciesByElement(element);
-            var pondFeatures = _pondFeaturesRepository.GetPondFeaturesByElement(element);
-
-            // Điều chỉnh số lượng cá dựa trên giới tính và năm sinh
-            string koiNumber = (gender == "Male" && birthYear % 2 == 0) ? "2-4" : "1-3";
-
-            // Thêm giống cá từ sở thích cá nhân
-            if (!string.IsNullOrEmpty(preference))
-            {
-                recommendedKoi.Add(new KoiSpecy { Name = preference, Description = "User's preference" });
-            }
-
-            return new ConsultationResult
-            {
-                RecommendedKoi = recommendedKoi,
-                PondFeatures = pondFeatures,
-                KoiNumber = koiNumber
-            };
-        }
+    public async Task<List<KoiSpecy>> GetKoiRecommendationByElementAsync(string element, int quantity)
+    {
+        var koiList = await _koiRepository.GetKoiSpeciesByElementAsync(element);
+        // Apply additional logic for quantity if needed
+        return koiList;
     }
 }

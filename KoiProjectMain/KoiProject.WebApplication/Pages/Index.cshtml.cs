@@ -31,7 +31,6 @@ public class IndexModel : PageModel
                 Console.WriteLine($"khong the ket noi: {ex.Message}");
             }
         }
-        KoiList = await _koiService.GetKoisAsync();
     }
    
 }

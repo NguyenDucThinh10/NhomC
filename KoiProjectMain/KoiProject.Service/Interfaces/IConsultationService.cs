@@ -1,8 +1,9 @@
 ﻿using KoiProject.Service.Models;
+using KoiProject.Repositories.Entities;
 namespace KoiProject.Service.Interfaces
 {
-    public interface IConsultationService
+    public interface IKoiConsultationService
     {
-        ConsultationResult GetConsultation(string gender, int birthYear, string element, string preference);
+        Task<List<KoiSpecy>> GetKoiRecommendationByElementAsync(string element, int quantity);
     }
 }

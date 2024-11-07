@@ -1,50 +1,55 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using KoiProject.Repositories.Entities; // Đảm bảo đúng namespace
-using KoiProject.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using KoiProject.Repositories.Interfaces;
+using KoiProject.Repositories.Entities;
 
 namespace KoiProject.Repositories.Repositories
 {
     public class KoiRepository : IKoiRepository
     {
-        private readonly FengShuiKoiDbContext _dbContext;
+        private readonly FengShuiKoiDbContext _context;
 
-        public KoiRepository(FengShuiKoiDbContext dbContext)
+        public KoiRepository(FengShuiKoiDbContext context)
         {
-            _dbContext = dbContext;
+            _context = context;
         }
 
-        public async Task<KoiFish?> GetKoiByIdAsync(int id)
+        public async Task<List<KoiSpecy>> GetKoiesAsync()
         {
-            return await _dbContext.KoiFishes.FindAsync(id); // Thay KoiFish bằng KoiFishes
+            return await _context.KoiSpecies.ToListAsync();  // Đảm bảo _context.KoiSpecies là DbSet<KoiSpecy>
         }
 
-        public async Task<List<KoiFish>> GetKoisAsync()
+        public async Task<KoiSpecy> GetKoiByIdAsync(int id)
         {
-            return await _dbContext.KoiFishes.ToListAsync(); // Thay KoiFish bằng KoiFishes
+            return await _context.KoiSpecies.FindAsync(id);
         }
 
-        public void Add(KoiFish koi)
+        public async Task AddAsync(KoiSpecy koi)
         {
-            _dbContext.KoiFishes.Add(koi); // Thay KoiFish bằng KoiFishes
+            await _context.KoiSpecies.AddAsync(koi);
         }
 
-        public void Remove(KoiFish koi)
+        public void Delete(KoiSpecy koi)
         {
-            _dbContext.KoiFishes.Remove(koi); // Thay KoiFish bằng KoiFishes
+            _context.KoiSpecies.Remove(koi);
         }
 
-        public void Update(KoiFish koi)
+        public void Update(KoiSpecy koi)
         {
-            _dbContext.KoiFishes.Update(koi); // Thay KoiFish bằng KoiFishes
-        }
-        public async Task<int> SaveChangesAsync()
-        {
-            return await _dbContext.SaveChangesAsync();
+            _context.KoiSpecies.Update(koi);
         }
 
+        public async Task SaveChangesAsync()
+        {
+            await _context.SaveChangesAsync();
+        }
 
+        public async Task<List<KoiSpecy>> GetKoiSpeciesByElementAsync(string element)
+        {
+            return await _context.KoiSpecies
+                .Where(k => k.SuitableElement == element)
+                .ToListAsync();
+        }
     }
 }

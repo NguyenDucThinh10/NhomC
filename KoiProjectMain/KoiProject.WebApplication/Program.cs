@@ -19,7 +19,7 @@ builder.Services.AddScoped<IKoiService, KoiService>();
 builder.Services.AddScoped<IKoiRepository, KoiRepository>();
 builder.Services.AddScoped<IAccountService, AccountService>();
 builder.Services.AddScoped<IAccountRepository, AccountRepository>();
-builder.Services.AddScoped<IConsultationService, ConsultationService>();
+builder.Services.AddScoped<IKoiConsultationService, KoiConsultationService>();
 builder.Services.AddScoped<IKoiSpeciesRepository, KoiSpeciesRepository>();
 builder.Services.AddScoped<IPondFeaturesRepository, PondFeaturesRepository>();
 

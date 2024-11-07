@@ -1,6 +1,5 @@
-﻿
-@page
-@model ConsultModel
+﻿@page
+@model KoiProject.WebApplication.Pages.ConsultationModel
 @using System.Web
 
 <!DOCTYPE html>
@@ -89,10 +88,10 @@
     <div class="consultation-container">
         <!-- Form nhập thông tin -->
         <div class="form-container">
-            <form method="post" id="consultForm">
+            <form method="post">
                 <div class="form-group">
                     <label for="gender">Giới tính:</label>
-                    <select id="gender" asp-for="Gender" class="form-control">
+                    <select id="gender" asp-for="Gender">
                         <option value="Male">Nam</option>
                         <option value="Female">Nữ</option>
                     </select>
@@ -100,23 +99,18 @@
 
                 <div class="form-group">
                     <label for="birthYear">Năm sinh:</label>
-                    <input type="number" asp-for="BirthYear" class="form-control" />
+                    <input type="number" id="birthYear" asp-for="BirthYear" />
                 </div>
 
                 <div class="form-group">
                     <label for="element">Bản mệnh:</label>
-                    <select id="element" asp-for="Element" class="form-control">
-                        <option value="Metal">Kim</option>
-                        <option value="Wood">Mộc</option>
-                        <option value="Water">Thủy</option>
-                        <option value="Fire">Hỏa</option>
-                        <option value="Earth">Thổ</option>
+                    <select id="element" asp-for="Element">
+                        <option value="Kim">Kim</option>
+                        <option value="Mộc">Mộc</option>
+                        <option value="Thủy">Thủy</option>
+                        <option value="Hỏa">Hỏa</option>
+                        <option value="Thổ">Thổ</option>
                     </select>
-                </div>
-
-                <div class="form-group">
-                    <label for="preference">Sở thích cá Koi:</label>
-                    <input type="text" asp-for="Preference" class="form-control" placeholder="Nhập giống cá Koi yêu thích..." />
                 </div>
 
                 <div class="form-group" style="text-align: center;">
@@ -128,20 +122,17 @@
         <!-- Kết quả tư vấn -->
         @if (Model.ConsultationResult != null)
         {
-            <div class="result-container" id="resultContainer">
+            <div class="result-container">
                 <h2>Kết quả tư vấn:</h2>
                 <p><strong>Giống cá Koi phù hợp:</strong> @Html.Raw(HttpUtility.HtmlEncode(Model.ConsultationResult.RecommendedKoi))</p>
-
-                <p><strong>Hình dạng hồ cá:</strong> @Model.ConsultationResult.PondShape</p>
-                <p><strong>Hướng đặt hồ cá:</strong> @Model.ConsultationResult.Direction</p>
                 <p><strong>Số lượng cá Koi nên nuôi:</strong> @Model.ConsultationResult.KoiNumber</p>
 
                 <h3>Thông tin chi tiết về các giống cá Koi:</h3>
                 <ul>
-                    @foreach (var koi in Model.ConsultationResult.KoiUrls)
+                    @foreach (var koi in Model.ConsultationResult.KoiDetails)
                     {
                         <li>
-                            <a href="@koi.Url" target="_blank">@koi.Name</a>
+                            <strong>@koi.Name</strong>: @koi.Description
                         </li>
                     }
                 </ul>

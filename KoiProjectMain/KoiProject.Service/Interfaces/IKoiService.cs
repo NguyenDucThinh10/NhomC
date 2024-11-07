@@ -7,10 +7,10 @@ namespace KoiProject.Service.Interfaces
 {
     public interface IKoiService
     {
-        Task<List<KoiFish>> GetKoisAsync();
-        Task<int> AddKoiAsync(KoiFish koi);
+        Task<List<KoiSpecy>> GetKoisAsync();
+        Task<int> AddKoiAsync(KoiSpecy koi);
         Task<bool> DeleteKoiAsync(int koiId);
-        Task<int> UpdateKoiAsync(KoiFish koi);
-        Task<KoiFish?> GetKoiByIdAsync(int id);
+        Task<int> UpdateKoiAsync(KoiSpecy koi);
+        Task<KoiSpecy?> GetKoiByIdAsync(int id);
     }
 }

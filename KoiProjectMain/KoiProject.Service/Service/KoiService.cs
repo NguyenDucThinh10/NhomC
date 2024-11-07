@@ -15,10 +15,28 @@ namespace KoiProject.Service.Services
             _koiRepository = koiRepository;
         }
 
-        public async Task<int> AddKoiAsync(KoiFish koi)
+        public async Task<List<KoiSpecy>> GetKoisAsync()
         {
-            _koiRepository.Add(koi);
-            return await _koiRepository.SaveChangesAsync();
+            return await _koiRepository.GetKoiesAsync();
+        }
+
+        public async Task<KoiSpecy?> GetKoiByIdAsync(int id)
+        {
+            return await _koiRepository.GetKoiByIdAsync(id);
+        }
+
+        public async Task<int> AddKoiAsync(KoiSpecy koi)
+        {
+            await _koiRepository.AddAsync(koi);
+            await _koiRepository.SaveChangesAsync();
+            return koi.KoiId;  // Giả sử KoiId là khóa chính tự động tăng
+        }
+
+        public async Task<int> UpdateKoiAsync(KoiSpecy koi)
+        {
+            _koiRepository.Update(koi);
+            await _koiRepository.SaveChangesAsync();
+            return koi.KoiId;
         }
 
         public async Task<bool> DeleteKoiAsync(int koiId)
@@ -29,25 +47,9 @@ namespace KoiProject.Service.Services
                 return false;
             }
 
-            _koiRepository.Remove(koi);
+            _koiRepository.Delete(koi);
             await _koiRepository.SaveChangesAsync();
             return true;
-        }
-
-        public async Task<List<KoiFish>> GetKoisAsync()
-        {
-            return await _koiRepository.GetKoisAsync();
-        }
-
-        public async Task<int> UpdateKoiAsync(KoiFish koi)
-        {
-            _koiRepository.Update(koi);
-            return await _koiRepository.SaveChangesAsync();
-        }
-
-        public async Task<KoiFish?> GetKoiByIdAsync(int id)
-        {
-            return await _koiRepository.GetKoiByIdAsync(id);
         }
     }
 }
