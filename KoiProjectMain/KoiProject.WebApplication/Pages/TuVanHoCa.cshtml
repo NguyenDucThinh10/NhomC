@@ -7,6 +7,7 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
+    <link rel="stylesheet" href="./fonts/themify-icons/themify-icons.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tư vấn chọn hồ cá Phong Thủy</title>
@@ -31,6 +32,14 @@
             width: 40%;
         }
 
+        .form-container-1 {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+            width: 40%;
+            position: relative;
+        }
         .form-group {
             margin-bottom: 15px;
         }
@@ -81,13 +90,23 @@
                 margin-top: 10px;
                 margin-left: 20px;
             }
+
+            .modal-close {
+                position: absolute;
+                right: 15px;
+                top: 15px;
+
+            }
+            .ti-close:hover {
+                color: red;
+            }
     </style>
 </head>
 <body>
 
-    <h1>Tư vấn Hồ Cá Phong Thủy</h1>
+<h1>Tư vấn Chọn Hồ Cá Phong Thủy</h1>
 
-    <div class="consultation-container">
+<div class="consultation-container">
         <!-- Form nhập thông tin -->
         <div class="form-container">
             <form method="post">
@@ -101,7 +120,7 @@
 
                 <div class="form-group">
                     <label for="birthYear">Năm sinh:</label>
-                    <input type="number" id="birthYear" />
+                    <input type="number" id="birthYear" required />
                 </div>
 
                 <div class="form-group">
@@ -120,20 +139,38 @@
                 </div>
             </form>
         </div>
+    
+        @if (Model.PondRecommendations != null && Model.PondRecommendations.Any())
+        {
+            <div class="form-container-1">
+            <div class="modal-close">
+                <i class="ti-close"></i>
+            </div>
+            <h2>Kết quả tư vấn:</h2>
+            <ul>
+                @foreach (var pond in Model.PondRecommendations)
+                {
+                    <li>
+                        <strong>Hình dạng:</strong> @pond.Shape<br />
+                        <strong>Hướng đặt:</strong> @pond.Direction<br />
+                        <strong>Mô tả:</strong> @pond.Description
+                    </li>
+                }
+            </ul>
+            </div>
+        }
+    
+        <script>
+            const modalClose = document.querySelector('.modal-close');  // Corrected the assignment
 
-    @if (Model.PondRecommendations != null && Model.PondRecommendations.Any())
-    {
-        <h2>Kết quả tư vấn:</h2>
-        <ul>
-            @foreach (var pond in Model.PondRecommendations)
-            {
-                <li>
-                    <strong>Hình dạng:</strong> @pond.Shape<br />
-                    <strong>Hướng đặt:</strong> @pond.Direction<br />
-                    <strong>Mô tả:</strong> @pond.Description
-                </li>
+            function reload() {
+                window.location.href = '/TuVanHoCa';  // Corrected the syntax (closed the parentheses properly)
             }
-        </ul>
-    }
+
+            modalClose.addEventListener('click', reload);  // Corrected the event listener setup
+        </script>
+
+   
+</div>
 </body>
 </html>
