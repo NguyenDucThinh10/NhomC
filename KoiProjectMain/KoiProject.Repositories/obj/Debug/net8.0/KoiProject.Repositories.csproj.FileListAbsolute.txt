@@ -57,3 +57,18 @@ C:\Users\nguye\OneDrive\Documents\Clone\NhomC\KoiProjectMain\KoiProject.Reposito
 C:\Users\nguye\OneDrive\Documents\Clone\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.pdb
 C:\Users\nguye\OneDrive\Documents\Clone\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.genruntimeconfig.cache
 C:\Users\nguye\OneDrive\Documents\Clone\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\ref\KoiProject.Repositories.dll
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.deps.json
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.runtimeconfig.json
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.dll
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.pdb
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.csproj.AssemblyReference.cache
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.AssemblyInfoInputs.cache
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.AssemblyInfo.cs
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.csproj.CoreCompileInputs.cache
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.sourcelink.json
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.dll
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\refint\KoiProject.Repositories.dll
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.pdb
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.genruntimeconfig.cache
+D:\bai tap\Congnghephanmem\baitaplon\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\ref\KoiProject.Repositories.dll

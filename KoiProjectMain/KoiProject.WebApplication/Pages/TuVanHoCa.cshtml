@@ -1,0 +1,128 @@
+﻿@page
+@model KoiProject.WebApplication.Pages.TuVanHoCaModel
+@{
+   
+}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tư vấn chọn hồ cá Phong Thủy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+        }
+
+        .consultation-container {
+            display: flex;
+            justify-content: space-around;
+            align-items: flex-start;
+            padding: 20px;
+        }
+
+        .form-container, .result-container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+            width: 40%;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        input, select {
+            padding: 8px;
+            width: 100%;
+            box-sizing: border-box;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .btn-submit {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+        }
+
+            .btn-submit:hover {
+                background-color: #45a049;
+            }
+
+        h1, h2 {
+            color: #333;
+            text-align: center;
+        }
+
+        .result-content {
+            font-size: 16px;
+            margin-top: 10px;
+            line-height: 1.5;
+        }
+
+            .result-content ul {
+                list-style-type: square;
+                margin-top: 10px;
+                margin-left: 20px;
+            }
+    </style>
+</head>
+<body>
+
+    <h1>Tư vấn Hồ Cá Phong Thủy</h1>
+
+    <div class="consultation-container">
+        <!-- Form nhập thông tin -->
+        <div class="form-container">
+            <form method="post">
+                
+
+                <div class="form-group">
+                    <label for="element">Bản mệnh:</label>
+                    <select id="element" asp-for="Element">
+                        <option value="Kim">Kim</option>
+                        <option value="Mộc">Mộc</option>
+                        <option value="Thủy">Thủy</option>
+                        <option value="Hỏa">Hỏa</option>
+                        <option value="Thổ">Thổ</option>
+                    </select>
+                </div>
+
+                <div class="form-group" style="text-align: center;">
+                    <button type="submit" class="btn-submit">Tư vấn chi tiết</button>
+                </div>
+            </form>
+        </div>
+
+    @if (Model.PondRecommendations != null && Model.PondRecommendations.Any())
+    {
+        <h2>Kết quả tư vấn:</h2>
+        <ul>
+            @foreach (var pond in Model.PondRecommendations)
+            {
+                <li>
+                    <strong>Hình dạng:</strong> @pond.Shape<br />
+                    <strong>Hướng đặt:</strong> @pond.Direction<br />
+                    <strong>Mô tả:</strong> @pond.Description
+                </li>
+            }
+        </ul>
+    }
+</body>
+</html>
