@@ -9,6 +9,9 @@ namespace KoiProject.Repositories.Interfaces
 {
         public interface IAccountRepository
         {
+		    Task<bool> DoesEmailExistAsync(string email);
+
+		    Task<bool> ValidateAccountAsync(string email, string password);
             bool IsEmailExists(string email);
             void AddAccount(Account account);
             // Các phương thức cần thiết khác

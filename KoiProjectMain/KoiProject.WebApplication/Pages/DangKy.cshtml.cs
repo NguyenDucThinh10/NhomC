@@ -51,7 +51,7 @@ namespace KoiProject.WebApplication.Pages
                 if (_accountService.IsEmailExists(Email))
                 {
                     EmailExists = true;
-                    ModelState.AddModelError("Email", "Email đã được đăng ký."); // Thêm thông báo lỗi
+                    ModelState.AddModelError("Email","Email đã được đăng ký."); // Thêm thông báo lỗi
                     return Page();
                 }
 

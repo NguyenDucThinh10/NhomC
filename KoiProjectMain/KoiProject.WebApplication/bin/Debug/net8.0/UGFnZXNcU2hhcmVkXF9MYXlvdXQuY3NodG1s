@@ -100,15 +100,24 @@
                 <li><a asp-area="" asp-page="/Phongthuy2024">Phong Thủy 2024</a></li>
                 <!-- Tư vấn phong thủy with dropdown -->
                 <li>
-                    <a asp-area="" asp-page="/TuVan">Tư vấn phong thủy</a>
+                    <a asp-area="" asp-page="/Index">Tư vấn phong thủy</a>
                     <div class="dropdown-content">
-                        <a asp-area="" asp-page="/TuVan/HoCa">Tư vấn lựa chọn hồ cá</a>
+                        <a asp-area="" asp-page="/TuVanHoCa">Tư vấn lựa chọn hồ cá</a>
                         <a asp-area="" asp-page="/TuVan/CaKoi">Tư vấn chọn nuôi cá Koi</a>
                     </div>
                 </li>
-                <li><a asp-area="" asp-page="/Instructors/Index">Cửa hàng</a></li>
-                <li><a asp-area="" asp-page="/DangNhap">Đăng nhập</a></li>
                 <li><a href="/Dashboard/index.html">Dashboard</a></li>
+                @if (User.Identity?.IsAuthenticated ?? false)
+                {
+                    <!-- Đăng xuất khi đã đăng nhập -->
+                    <li><a asp-page="/Logout">Đăng xuất</a></li>
+                }
+                else
+                {
+                    <!-- Đăng nhập khi chưa đăng nhập -->
+                    <li><a asp-page="/DangNhap">Đăng nhập</a></li>
+                }
+
             </ul>
         </nav>
     </header>

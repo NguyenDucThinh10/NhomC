@@ -6,18 +6,32 @@ using Microsoft.Data.SqlClient;
 
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 
 namespace KoiProject.WebApplication.Pages
 {
+    [Authorize]
     public class TuVanHoCaModel : PageModel
     {
-        private readonly string _connectionString = "Data Source=DESKTOP-0TQPALR;Initial Catalog=FengShuiKoiDB1;Integrated Security=True;Trust Server Certificate=True";
+        private readonly string _connectionString = "Data Source=DESKTOP-QFUFB46;Initial Catalog=FengShuiKoiDB;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False";
 
         [BindProperty]
         public string Element { get; set; }
 
         public List<PondFeatures> PondRecommendations { get; set; }
 
+        public IActionResult OnGet()
+        {
+            // Kiểm tra trạng thái đăng nhập
+            if (!User.Identity?.IsAuthenticated ?? false)
+            {
+                // Chưa đăng nhập, chuyển đến trang Login
+                return RedirectToPage("/DangNhap", new { returnUrl = "/TuVanHoCa" });
+            }
+
+            // Đã đăng nhập, tiếp tục hiển thị nội dung trang
+            return Page();
+        }
         public async Task OnPostAsync()
         {
             if (!string.IsNullOrEmpty(Element))

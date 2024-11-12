@@ -25,5 +25,18 @@ namespace KoiProject.Repositories
             _context.Accounts.Add(account);
             _context.SaveChanges();
         }
-    }
+
+		public async Task<bool> DoesEmailExistAsync(string email)
+		{
+			return await _context.Accounts.AnyAsync(a => a.Email == email);
+		}
+
+
+		public async Task<bool> ValidateAccountAsync(string email, string password)
+		{
+			return await _context.Accounts
+				.AnyAsync(a => a.Email == email && a.Password == password);
+		}
+
+	}
 }
