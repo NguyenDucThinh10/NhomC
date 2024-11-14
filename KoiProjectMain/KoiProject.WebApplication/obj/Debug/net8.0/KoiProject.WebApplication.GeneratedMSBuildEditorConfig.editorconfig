@@ -9,99 +9,99 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KoiProject.WebApplication
 build_property.RootNamespace = KoiProject.WebApplication
-build_property.ProjectDir = C:\cnpm btl\NhomC\NhomC\NhomC\KoiProjectMain\KoiProject.WebApplication\
+build_property.ProjectDir = D:\duan\NhomC\KoiProjectMain\KoiProject.WebApplication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\cnpm btl\NhomC\NhomC\NhomC\KoiProjectMain\KoiProject.WebApplication
+build_property.MSBuildProjectDirectory = D:\duan\NhomC\KoiProjectMain\KoiProject.WebApplication
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/App.razor]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Shared/MainLayout.razor]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/600cakoi.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/600cakoi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcNjAwY2Frb2kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/DangKy.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/DangKy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFuZ0t5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/DangNhap.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/DangNhap.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFuZ05oYXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Error.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Index.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/KKoiLover.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/KKoiLover.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS0tvaUxvdmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Logout.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Phongthuy2024.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Phongthuy2024.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGhvbmd0aHV5MjAyNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Privacy.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/tintuc2.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/tintuc2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGludHVjMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/tintuc4.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/tintuc4.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGludHVjNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/tintuc5.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/tintuc5.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGludHVjNS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/tintuc6.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/tintuc6.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGludHVjNi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/TuVanCaKoi.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/TuVanCaKoi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHVWYW5DYUtvaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/TuVanHoCa.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/TuVanHoCa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHVWYW5Ib0NhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/_Host.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/_ViewImports.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/_ViewStart.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/cnpm btl/NhomC/NhomC/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Shared/_Layout.cshtml]
+[D:/duan/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7o2uujfsq3
