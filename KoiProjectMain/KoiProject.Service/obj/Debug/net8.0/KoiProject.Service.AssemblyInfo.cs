@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KoiProject.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2b23ba0b82bd54b33e7e2df22086ae4a12c5bb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6069b30ad3ee4e9ac034f9ffec31c3a5724945ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("KoiProject.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KoiProject.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
