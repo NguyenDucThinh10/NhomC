@@ -1,0 +1,163 @@
+﻿@page
+@model KoiProject.WebApplication.Pages.TuVanCaKoiModel
+@using System.Web
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <link rel="stylesheet" href="./fonts/themify-icons/themify-icons.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tư vấn Chọn Cá Koi phong thủy  </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+        }
+
+        .consultation-container {
+            display: flex;
+            justify-content: space-around;
+            align-items: flex-start;
+            padding: 20px;
+        }
+
+        .form-container, .result-container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+            width: 40%;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        input, select {
+            padding: 8px;
+            width: 100%;
+            box-sizing: border-box;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .btn-submit {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+        }
+
+            .btn-submit:hover {
+                background-color: #45a049;
+            }
+
+        h1, h2 {
+            color: #333;
+            text-align: center;
+        }
+
+        .result-content {
+            font-size: 16px;
+            margin-top: 10px;
+            line-height: 1.5;
+        }
+
+            .result-content ul {
+                list-style-type: square;
+                margin-top: 10px;
+                margin-left: 20px;
+            }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center;">Tư vấn Chọn Cá Koi phong thủy</h1>
+
+    <div class="consultation-container">
+        <!-- Form nhập thông tin -->
+        <div class="form-container">
+            <form method="post">
+                <div class="form-group">
+                    <label for="gender">Giới tính:</label>
+                    <select id="gender" asp-for="Gender">
+                        <option value="Male">Nam</option>
+                        <option value="Female">Nữ</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="birthYear">Năm sinh:</label>
+                    <input type="number" id="birthYear" asp-for="BirthYear" />
+                </div>
+
+                <div class="form-group">
+                    <label for="element">Bản mệnh:</label>
+                    <select id="element" asp-for="Element">
+                        <option value="Kim">Kim</option>
+                        <option value="Mộc">Mộc</option>
+                        <option value="Thủy">Thủy</option>
+                        <option value="Hỏa">Hỏa</option>
+                        <option value="Thổ">Thổ</option>
+                    </select>
+                </div>
+
+                <div class="form-group" style="text-align: center;">
+                    <button type="submit" class="btn-submit">Tư vấn chi tiết</button>
+                </div>
+            </form>
+        </div>
+
+        <!-- Kết quả tư vấn -->
+        @if (Model.ConsultationResult != null)
+        {
+            <div class="result-container">
+                <h2>Kết quả tư vấn:</h2>
+                <p>
+                    <strong>Giống cá Koi phù hợp:</strong>
+                    @foreach (var koi in Model.ConsultationResult.RecommendedKoi)
+                    {
+                        <span>@koi.Name</span>
+
+                        <br />
+                    }
+                </p>
+                <p><strong>Số lượng cá Koi nên nuôi:</strong> @Model.ConsultationResult.KoiNumber</p>
+
+                <h3>Thông tin chi tiết về các giống cá Koi:</h3>
+                <table style="width:100%; border-collapse: collapse;">
+                    <tr>
+                        <th style="border: 1px solid #ddd; padding: 8px;">Tên</th>
+                        <th style="border: 1px solid #ddd; padding: 8px;">Mô tả</th>
+                        <th style="border: 1px solid #ddd; padding: 8px;">Hình ảnh</th>
+                    </tr>
+                    @foreach (var koi in Model.ConsultationResult.RecommendedKoi)
+                    {
+                        <tr>
+                            <td style="border: 1px solid #ddd; padding: 8px;"><strong>@koi.Name</strong></td>
+                            <td style="border: 1px solid #ddd; padding: 8px;">@koi.Description</td>
+                            <td style="border: 1px solid #ddd; padding: 8px;">
+                                <img src="@koi.ImageUrl" alt="@koi.Name" width="100" />
+                            </td>
+
+                        </tr>
+                    }
+                </table>
+
+            </div>
+        }
+    </div>
+
+</body>
+</html>

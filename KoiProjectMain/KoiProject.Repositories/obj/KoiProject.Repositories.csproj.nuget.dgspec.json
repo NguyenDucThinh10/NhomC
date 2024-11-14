@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project nhóm c\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {}
+    "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {}
   },
   "projects": {
-    "D:\\project nhóm c\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {
+    "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project nhóm c\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
+        "projectUniqueName": "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
         "projectName": "KoiProject.Repositories",
-        "projectPath": "D:\\project nhóm c\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\project nhóm c\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\obj\\",
+        "projectPath": "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -86,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
