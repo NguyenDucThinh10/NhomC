@@ -107,15 +107,17 @@
                     </div>
                 </li>
                 <li>
-                    @if (User.Identity?.IsAuthenticated ?? false)
+                    @if (User.Identity?.IsAuthenticated ?? false && User.IsInRole("3")) // Chỉ Admin mới thấy Dashboard
                     {
-                        <!-- Chỉ hiển thị Dashboard nếu đã đăng nhập -->
-                        <a href="~/Dashboard/index.html">Dashboard</a>
+                        <a href="/Dashboard/index.html">Dashboard</a>
+                    }
+                    else if (User.Identity?.IsAuthenticated ?? false)
+                    {
+                        <a href="/AdminLogin?returnUrl=/Dashboard/index.html">Dashboard</a>
                     }
                     else
                     {
-                        <!-- Chuyển đến form đăng nhập nếu chưa đăng nhập -->
-                        <a asp-page="/AdminLogin">Dashboard</a>
+                        <a href="/AdminLogin">Dashboard</a>
                     }
                 </li>
                 @if (User.Identity?.IsAuthenticated ?? false)

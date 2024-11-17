@@ -4448,45 +4448,25 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\KHANG\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
-=======
-    "C:\\Users\\nguye\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
->>>>>>> a5fa426d5bfcb839d59364fbbb94db5a476d130e
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\2 đang làm\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
+      "projectUniqueName": "D:\\dev c+c+\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
       "projectName": "KoiProject.WebApplication",
-      "projectPath": "D:\\2 đang làm\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
+      "projectPath": "D:\\dev c+c+\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
       "packagesPath": "C:\\Users\\KHANG\\.nuget\\packages\\",
-      "outputPath": "D:\\2 đang làm\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Documents\\Neww\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
-      "projectName": "KoiProject.WebApplication",
-      "projectPath": "C:\\Users\\nguye\\OneDrive\\Documents\\Neww\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\KoiProject.WebApplication.csproj",
-      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nguye\\OneDrive\\Documents\\Neww\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\obj\\",
->>>>>>> a5fa426d5bfcb839d59364fbbb94db5a476d130e
+      "outputPath": "D:\\dev c+c+\\NhomC\\KoiProjectMain\\KoiProject.WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\KHANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> a5fa426d5bfcb839d59364fbbb94db5a476d130e
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -4494,24 +4474,14 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-<<<<<<< HEAD
         "https://api.nuget.org/v3/index.json": {}
-=======
-        "https://api.nuget.org/v3/index.json": {},
-        "https://packagesource": {}
->>>>>>> a5fa426d5bfcb839d59364fbbb94db5a476d130e
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-<<<<<<< HEAD
-            "D:\\2 đang làm\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {
-              "projectPath": "D:\\2 đang làm\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj"
-=======
-            "C:\\Users\\nguye\\OneDrive\\Documents\\Neww\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {
-              "projectPath": "C:\\Users\\nguye\\OneDrive\\Documents\\Neww\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj"
->>>>>>> a5fa426d5bfcb839d59364fbbb94db5a476d130e
+            "D:\\dev c+c+\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {
+              "projectPath": "D:\\dev c+c+\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj"
             }
           }
         }
@@ -4566,11 +4536,7 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
->>>>>>> a5fa426d5bfcb839d59364fbbb94db5a476d130e
       }
     }
   }
