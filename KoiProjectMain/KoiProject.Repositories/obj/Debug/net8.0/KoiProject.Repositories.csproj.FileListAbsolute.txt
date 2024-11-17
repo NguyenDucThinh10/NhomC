@@ -147,3 +147,18 @@ D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\refint\Koi
 D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.pdb
 D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.genruntimeconfig.cache
 D:\duan\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\ref\KoiProject.Repositories.dll
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.deps.json
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.runtimeconfig.json
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.dll
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\bin\Debug\net8.0\KoiProject.Repositories.pdb
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.csproj.AssemblyReference.cache
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.AssemblyInfoInputs.cache
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.AssemblyInfo.cs
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.csproj.CoreCompileInputs.cache
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.sourcelink.json
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.dll
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\refint\KoiProject.Repositories.dll
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.pdb
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\KoiProject.Repositories.genruntimeconfig.cache
+D:\2 đang làm\NhomC\KoiProjectMain\KoiProject.Repositories\obj\Debug\net8.0\ref\KoiProject.Repositories.dll
