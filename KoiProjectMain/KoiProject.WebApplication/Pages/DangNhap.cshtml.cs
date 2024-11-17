@@ -37,7 +37,7 @@ namespace KoiProject.WebApplication.Pages
 		{
 			if (!await _accountRepository.DoesEmailExistAsync(Email))
 			{
-				ErrorMessage = "Email không t?n t?i.";
+				ErrorMessage = "Account does not exist.";
 				return Page();
 			}
 
@@ -62,7 +62,7 @@ namespace KoiProject.WebApplication.Pages
 				return Redirect(ReturnUrl);
 			}
 
-			ErrorMessage = "M?t kh?u không chính xác.";
+			ErrorMessage = "Password is incorrect.";
 			return Page();
 		}
 

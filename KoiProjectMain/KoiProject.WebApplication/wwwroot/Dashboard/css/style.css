@@ -260,7 +260,6 @@ body {
   font-size: 0.875rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #BDBDC7;
   text-align: left;
   background-color: rgba(88, 115, 254, 0.04); }
 
@@ -8029,16 +8028,6 @@ a {
     -webkit-transform: scale(1);
     transform: scale(1); } }
 
-.footer {
-  padding-left: 17.1875rem;
-  background-color: rgba(88, 115, 254, 0.04); }
-  .footer .copyright {
-    padding: 0.9375rem; }
-    .footer .copyright p {
-      text-align: center;
-      margin: 0; }
-    .footer .copyright a {
-      color: #593bdb; }
 
 [data-sidebar-style="mini"] .nav-control,
 [data-layout="horizontal"] .nav-control {
@@ -8643,8 +8632,6 @@ svg.pulse-svg {
     float: left; }
   .rtl .modal-header .close {
     margin: -15px auto -15px -15px; }
-  .rtl .modal-footer > :not(:first-child) {
-    margin-right: .25rem; }
   .rtl .alert-dismissible .close {
     right: inherit;
     left: 0; }
@@ -15464,12 +15451,7 @@ button {
     .card-header .subtitle {
       padding-top: 5px;
       font-size: 13px; }
-  .card-footer {
-    border-color: #eaeaea;
-    background: transparent;
-    padding: 1rem; }
-    [data-theme-version="dark"] .card-footer {
-      border-color: #424D63; }
+  
 
 .transparent-card.card {
   background: transparent;
@@ -15802,15 +15784,12 @@ button {
 .vertical-card__menu--button button {
   font-size: 0.75rem; }
 
-.vertical-card__menu .card-footer {
-  padding: 15px 20px;
-  background-color: #eaeaea;
-  border-top: none; }
+
   @media only screen and (min-width: 1200px) and (max-width: 1440px) {
     .vertical-card__menu .card-footer {
       padding: 15px; } }
   .vertical-card__menu .card-footer span {
-    color: #454545;
+
     margin-right: 0.3125rem; }
 
 .horizontal-card__menu {
@@ -16781,10 +16760,10 @@ table.dataTable tr.selected {
   color: #593bdb; }
 
 table.dataTable tfoot th {
-  color: #454545;
+
   font-weight: 600; }
   [data-theme-version="dark"] table.dataTable tfoot th {
-    color: #fff; }
+ }
 
 .dataTables_wrapper .dataTables_paginate .paginate_button.current {
   border-radius: 50%;
@@ -16842,7 +16821,7 @@ table.dataTable.display tbody td {
 
 .fooicon {
   font-size: 1.25rem;
-  color: #454545; }
+ }
 
 .jsgrid-table .jsgrid-header-row > .jsgrid-header-cell {
   color: #454545; }
@@ -19401,6 +19380,6 @@ html[dir="rtl"] [direction="rtl"][data-sidebar-style="compact"]:not([data-layout
   [data-theme-version="dark"] .footer .copyright {
     background-color: transparent; }
     [data-theme-version="dark"] .footer .copyright p {
-      color: #fff; }
+}
 
 /*# sourceMappingURL=style.css.map */

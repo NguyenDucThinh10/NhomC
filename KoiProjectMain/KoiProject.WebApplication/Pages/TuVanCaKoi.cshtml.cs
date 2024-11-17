@@ -1,5 +1,6 @@
 ﻿using KoiProject.Repositories.Entities;
 using KoiProject.Service.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Data.SqlClient;
@@ -8,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace KoiProject.WebApplication.Pages
 {
+    [Authorize]
     public class TuVanCaKoiModel : PageModel
     {
         private readonly string _connectionString = "Data Source=DESKTOP-QFUFB46;Initial Catalog=FengShuiKoiDB;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False";
@@ -22,6 +24,19 @@ namespace KoiProject.WebApplication.Pages
         public int BirthYear { get; set; }
 
         public ConsultationResult? ConsultationResult { get; set; }
+
+        public IActionResult OnGet()
+        {
+            // Kiểm tra trạng thái đăng nhập
+            if (!User.Identity?.IsAuthenticated ?? false)
+            {
+                // Chưa đăng nhập, chuyển đến trang Login
+                return RedirectToPage("/DangNhap", new { returnUrl = "/TuVanCaKoi" });
+            }
+
+            // Đã đăng nhập, tiếp tục hiển thị nội dung trang
+            return Page();
+        }
         private static int CalculateKoiNumber(int birthYear)
         {
             int age = DateTime.Now.Year - birthYear;

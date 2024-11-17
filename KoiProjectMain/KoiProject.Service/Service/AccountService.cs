@@ -1,6 +1,7 @@
 ﻿using KoiProject.Repositories.Entities;
 using KoiProject.Repositories.Interfaces;
 using KoiProject.Service.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace KoiProject.Service
 {
@@ -22,5 +23,10 @@ namespace KoiProject.Service
         {
             _accountRepository.AddAccount(account);
         }
+        public Account GetAccountByEmailAndPassword(string email, string password)
+        {
+            return _accountRepository.GetAccountByEmailAndPassword(email, password);
+        }
+
     }
 }

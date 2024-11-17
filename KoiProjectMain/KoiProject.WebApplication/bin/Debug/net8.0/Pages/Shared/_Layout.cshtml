@@ -82,13 +82,13 @@
         }
 
         footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 0;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
+            background-color: #333 !important;
+            color: white !important;
+            text-align: center !important;
+            padding: 0 !important;
+            position: fixed !important;
+            bottom: 0 !important;
+            width: 100% !important;
         }
     </style>
 </head>
@@ -106,7 +106,20 @@
                         <a asp-area="" asp-page="/TuVanCaKoi">Tư vấn chọn nuôi cá Koi</a>
                     </div>
                 </li>
-                <li><a href="/Dashboard/index.html">Dashboard</a></li>
+                <li>
+                    @if (User.Identity?.IsAuthenticated ?? false && User.IsInRole("3")) // Chỉ Admin mới thấy Dashboard
+                    {
+                        <a href="/Dashboard/index.html">Dashboard</a>
+                    }
+                    else if (User.Identity?.IsAuthenticated ?? false)
+                    {
+                        <a href="/AdminLogin?returnUrl=/Dashboard/index.html">Dashboard</a>
+                    }
+                    else
+                    {
+                        <a href="/AdminLogin">Dashboard</a>
+                    }
+                </li>
                 @if (User.Identity?.IsAuthenticated ?? false)
                 {
                     <!-- Đăng xuất khi đã đăng nhập -->

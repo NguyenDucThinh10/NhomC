@@ -37,6 +37,9 @@ namespace KoiProject.Repositories
 			return await _context.Accounts
 				.AnyAsync(a => a.Email == email && a.Password == password);
 		}
-
-	}
+        public Account GetAccountByEmailAndPassword(string email, string password)
+        {
+            return _context.Accounts.FirstOrDefault(a => a.Email == email && a.Password == password);
+        }
+    }
 }

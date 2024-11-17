@@ -1,0 +1,180 @@
+﻿@page
+@model KoiProject.WebApplication.Pages.AdminLoginModel
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Login - Dashboard</title>
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="./images/favicon.png">
+    
+</head>
+
+<body class="h-100">
+    <div class="authincation h-100">
+        <div class="container-fluid h-100">
+            <div class="row justify-content-center h-100 align-items-center">
+                <div class="col-md-6">
+                    <div class="authincation-content">
+                        <div class="row no-gutters">
+                            <div class="col-xl-12">
+                                <div class="auth-form">
+
+                                    <!-- Form đăng nhập -->
+                                    <form method="post">
+                                        <!-- Tiêu đề -->
+                                        <h4>Đăng nhập tài khoản Admin</h4>
+
+                                        <!-- Nhóm nhập liệu -->
+                                        <div class="form-group">
+                                            <label><strong>Email</strong></label>
+                                            <input type="email" asp-for="Email" class="form-control" required />
+                                        </div>
+                                        <div class="form-group">
+                                            <label><strong>Password</strong></label>
+                                            <input type="password" asp-for="Password" class="form-control" required />
+                                        </div>
+
+                                        <!-- Nút bấm -->
+                                        <div>
+                                            <button type="submit" class="btn btn-primary btn-block">Đăng nhập</button>
+                                        </div>
+
+                                        <!-- Liên kết Sign up -->
+                                      
+                                    </form>
+
+
+                                    <!-- Thông báo lỗi -->
+                                    @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+                                    {
+                                        <div class="text-danger text-center mt-3">
+                                            @Model.ErrorMessage
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="./vendor/global/global.min.js"></script>
+    <script src="./js/quixnav-init.js"></script>
+    <script src="./js/custom.min.js"></script>
+</body>
+
+</html>
+<style>
+    /* Phần chứa toàn bộ form */
+    form {
+        background: #ffffff; /* Nền trắng */
+        border-radius: 15px; /* Góc bo tròn lớn hơn */
+        padding: 60px 50px; /* Tăng padding để form dài hơn */
+        box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); /* Đổ bóng mạnh hơn */
+        max-width: 450px; /* Tăng chiều rộng tối đa */
+        margin: 20px auto; /* Căn giữa với khoảng cách trên dưới */
+        min-height: 450px; /* Tăng chiều cao tối thiểu */
+        transition: all 0.3s ease-in-out; /* Hiệu ứng chuyển động mượt */
+        text-align: center; /* Căn giữa nội dung bên trong form */
+    }
+
+        /* Tiêu đề của form */
+        form h4 {
+            font-size: 24px; /* Kích thước chữ lớn hơn */
+            font-weight: bold; /* Chữ in đậm */
+            color: #333333; /* Màu tối */
+            margin-bottom: 30px; /* Khoảng cách với phần nhập liệu */
+            text-align: center; /* Căn giữa */
+        }
+
+    /* Nhóm form */
+    .form-group {
+        margin-bottom: 25px; /* Tăng khoảng cách giữa các nhóm */
+        text-align: left; /* Các label và input sẽ căn trái */
+    }
+
+        /* Nhãn (label) */
+        .form-group label {
+            display: block; /* Đảm bảo luôn hiển thị trên một dòng */
+            font-weight: bold; /* Chữ in đậm */
+            font-size: 16px; /* Tăng kích thước chữ */
+            color: #333333; /* Màu tối */
+            margin-bottom: 8px; /* Tăng khoảng cách giữa label và input */
+        }
+
+        /* Input */
+        .form-group input {
+            width: 100%; /* Chiếm toàn bộ chiều ngang */
+            padding: 14px 18px; /* Kích thước ô nhập liệu */
+            font-size: 15px; /* Tăng kích thước chữ */
+            border: 1px solid #ddd; /* Viền nhạt */
+            border-radius: 10px; /* Bo góc mềm hơn */
+            background: #f9f9f9; /* Nền nhạt */
+            margin-bottom: 20px; /* Tăng khoảng cách giữa các ô */
+            transition: all 0.3s ease; /* Hiệu ứng khi focus */
+        }
+
+            /* Input khi người dùng focus */
+            .form-group input:focus {
+                border-color: #6a11cb; /* Đổi màu viền khi focus */
+                box-shadow: 0px 0px 10px rgba(106, 17, 203, 0.3); /* Hiệu ứng ánh sáng */
+                outline: none; /* Loại bỏ viền mặc định */
+            }
+
+    /* Nút bấm */
+    .btn {
+        background: linear-gradient(135deg, #6a11cb, #2575fc); /* Gradient nền nút */
+        color: #ffffff; /* Màu chữ */
+        border: none; /* Loại bỏ viền */
+        border-radius: 10px; /* Bo góc mềm hơn */
+        font-size: 18px; /* Tăng kích thước chữ */
+        font-weight: bold; /* Chữ đậm */
+        padding: 15px 0; /* Tăng chiều cao nút */
+        width: 100%; /* Chiếm toàn bộ chiều ngang */
+        cursor: pointer;
+        transition: all 0.3s ease; /* Hiệu ứng mượt */
+    }
+
+        /* Hiệu ứng hover nút */
+        .btn:hover {
+            background: linear-gradient(135deg, #4b0ea3, #1e5ebe); /* Gradient đậm hơn khi hover */
+            transform: translateY(-3px); /* Nút nhô lên khi hover */
+            box-shadow: 0px 5px 10px rgba(75, 14, 163, 0.3); /* Thêm đổ bóng khi hover */
+        }
+
+    /* Thông báo lỗi */
+    .text-danger {
+        font-size: 14px;
+        color: #e74c3c; /* Màu đỏ */
+        text-align: center;
+        margin-top: 10px;
+        font-weight: bold;
+    }
+
+    /* Liên kết Sign up */
+    .new-account p {
+        font-size: 14px; /* Kích thước chữ vừa phải */
+        color: #333333; /* Màu chữ */
+        margin-top: 20px; /* Khoảng cách phía trên */
+        text-align: center; /* Căn giữa văn bản */
+    }
+
+    .new-account a {
+        color: #6a11cb; /* Màu tím nổi bật */
+        text-decoration: none; /* Loại bỏ gạch chân */
+        font-weight: bold; /* Chữ đậm */
+        transition: color 0.3s ease; /* Hiệu ứng khi hover */
+    }
+
+        .new-account a:hover {
+            color: #4b0ea3; /* Màu đậm hơn khi hover */
+        }
+
+</style>
