@@ -51,7 +51,7 @@ namespace KoiProject.WebApplication.Pages
                 if (_accountService.IsEmailExists(Email))
                 {
                     EmailExists = true;
-                    ModelState.AddModelError("Email","Email đã được đăng ký."); // Thêm thông báo lỗi
+                    ModelState.AddModelError("Email", "Email đã được đăng ký."); // Thêm thông báo lỗi
                     return Page();
                 }
 
@@ -60,7 +60,8 @@ namespace KoiProject.WebApplication.Pages
                 {
                     FullName = FullName,
                     Email = Email,
-                    Password = Password // Lưu ý: nên mã hóa mật khẩu trước khi lưu
+                    Password = Password, // Lưu ý: nên mã hóa mật khẩu trước khi lưu
+                    UserRoleId = 2 // Gán UserRoleId mặc định là 2
                 };
 
                 // Lưu tài khoản vào cơ sở dữ liệu

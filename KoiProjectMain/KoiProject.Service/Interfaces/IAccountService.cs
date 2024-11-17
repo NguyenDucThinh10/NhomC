@@ -9,6 +9,8 @@ namespace KoiProject.Service.Interfaces
 {
     public interface IAccountService
     {
+        Account GetAccountByEmailAndPassword(string email, string password);
+
         bool IsEmailExists(string email);
         void RegisterAccount(Account account);
     }

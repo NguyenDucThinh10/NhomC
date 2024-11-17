@@ -51,12 +51,17 @@ app.Use(async (context, next) =>
     await next();
 });
 
+
+
+
 // 6. Cấu hình xử lý lỗi cho Production
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
     app.UseHsts(); // HSTS cho Production
 }
+
+
 
 // 7. Middleware cơ bản
 app.UseHttpsRedirection();
