@@ -4745,24 +4745,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KHANG\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\PHU\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev c+c+\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
+      "projectUniqueName": "D:\\bai tap\\test\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
       "projectName": "KoiProject.Repositories",
-      "projectPath": "D:\\dev c+c+\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
-      "packagesPath": "C:\\Users\\KHANG\\.nuget\\packages\\",
-      "outputPath": "D:\\dev c+c+\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\obj\\",
+      "projectPath": "D:\\bai tap\\test\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
+      "packagesPath": "C:\\Users\\PHU\\.nuget\\packages\\",
+      "outputPath": "D:\\bai tap\\test\\test\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\KHANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\PHU\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4770,7 +4765,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4783,13 +4777,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -4836,7 +4824,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

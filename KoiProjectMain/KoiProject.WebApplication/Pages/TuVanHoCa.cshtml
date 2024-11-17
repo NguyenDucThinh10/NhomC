@@ -1,7 +1,7 @@
 ﻿@page
 @model KoiProject.WebApplication.Pages.TuVanHoCaModel
 @{
-   
+
 }
 
 <!DOCTYPE html>
@@ -40,6 +40,7 @@
             width: 40%;
             position: relative;
         }
+
         .form-group {
             margin-bottom: 15px;
         }
@@ -91,28 +92,33 @@
                 margin-left: 20px;
             }
 
-            .modal-close {
-                position: absolute;
-                right: 15px;
-                top: 15px;
+        .modal-close {
+            position: absolute;
+            right: 15px;
+            top: 15px;
+        }
 
-            }
-            .ti-close:hover {
-                color: red;
-            }
+        .ti-close:hover {
+            color: red;
+        }
+
+        .error-message {
+            color: red;
+            font-size: 12px;
+        }
     </style>
 </head>
 <body>
 
-<h1>Tư vấn Chọn Hồ Cá Phong Thủy</h1>
+    <h1>Tư vấn Chọn Hồ Cá Phong Thủy</h1>
 
-<div class="consultation-container">
+    <div class="consultation-container">
         <!-- Form nhập thông tin -->
         <div class="form-container">
-            <form method="post">
+            <form method="post" id="consultationForm" onsubmit="return validateForm()">
                 <div class="form-group">
                     <label for="gender">Giới tính:</label>
-                    <select id="gender" >
+                    <select id="gender">
                         <option value="Male">Nam</option>
                         <option value="Female">Nữ</option>
                     </select>
@@ -120,7 +126,8 @@
 
                 <div class="form-group">
                     <label for="birthYear">Năm sinh:</label>
-                    <input type="number" id="birthYear" required />
+                    <input type="number" id="birthYear" />
+                    <span id="error-message" class="error-message"></span>
                 </div>
 
                 <div class="form-group">
@@ -139,38 +146,52 @@
                 </div>
             </form>
         </div>
-    
+
         @if (Model.PondRecommendations != null && Model.PondRecommendations.Any())
         {
             <div class="form-container-1">
-            <div class="modal-close">
-                <i class="ti-close"></i>
-            </div>
-            <h2>Kết quả tư vấn:</h2>
-            <ul>
-                @foreach (var pond in Model.PondRecommendations)
-                {
-                    <li>
-                        <strong>Hình dạng:</strong> @pond.Shape<br />
-                        <strong>Hướng đặt:</strong> @pond.Direction<br />
-                        <strong>Mô tả:</strong> @pond.Description
-                    </li>
-                }
-            </ul>
+                <div class="modal-close">
+                    <i class="ti-close"></i>
+                </div>
+                <h2>Kết quả tư vấn:</h2>
+                <ul>
+                    @foreach (var pond in Model.PondRecommendations)
+                    {
+                        <li>
+                            <strong>Hình dạng:</strong> @pond.Shape<br />
+                            <strong>Hướng đặt:</strong> @pond.Direction<br />
+                            <strong>Mô tả:</strong> @pond.Description
+                        </li>
+                    }
+                </ul>
             </div>
         }
-    
+
         <script>
-            const modalClose = document.querySelector('.modal-close');  // Corrected the assignment
+            //đóng bảng tư vấn
+            const modalClose = document.querySelector('.modal-close'); 
 
             function reload() {
-                window.location.href = '/TuVanHoCa';  // Corrected the syntax (closed the parentheses properly)
+                window.location.href = '/TuVanHoCa';  
             }
 
-            modalClose.addEventListener('click', reload);  // Corrected the event listener setup
+            modalClose.addEventListener('click', reload);  
+
+            // kiểm tra năm sinh
+            function validateForm() {
+                const birthYear = document.getElementById('birthYear').value;
+                const errorMessage = document.getElementById('error-message');
+                const year = parseInt(birthYear);
+
+                if (isNaN(year) || year < 1945 || year > 2024) {
+                    errorMessage.textContent = 'Năm sinh không hợp lệ!';
+                    return false; 
+                }
+
+                
+            }
         </script>
 
-   
-</div>
+    </div>
 </body>
 </html>

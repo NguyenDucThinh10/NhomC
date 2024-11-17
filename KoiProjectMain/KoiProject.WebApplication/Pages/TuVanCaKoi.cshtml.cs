@@ -12,7 +12,7 @@ namespace KoiProject.WebApplication.Pages
     [Authorize]
     public class TuVanCaKoiModel : PageModel
     {
-        private readonly string _connectionString = "Data Source=DESKTOP-QFUFB46;Initial Catalog=FengShuiKoiDB;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False";
+        private readonly string _connectionString = "Data Source=DESKTOP-0TQPALR;Initial Catalog=FengShuiKoiDB1;Integrated Security=True;Encrypt=True;Trust Server Certificate=True";
 
         [BindProperty]
         public string Gender { get; set; }
