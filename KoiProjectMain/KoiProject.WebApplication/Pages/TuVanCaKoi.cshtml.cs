@@ -1,18 +1,17 @@
 ﻿using KoiProject.Repositories.Entities;
 using KoiProject.Service.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Data.SqlClient;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace KoiProject.WebApplication.Pages
 {
-    [Authorize]
     public class TuVanCaKoiModel : PageModel
     {
-        private readonly string _connectionString = "Data Source=DESKTOP-0TQPALR;Initial Catalog=FengShuiKoiDB1;Integrated Security=True;Encrypt=True;Trust Server Certificate=True";
+        private readonly string _connectionString = "Data Source=LAPTOP-PBFDCTTE;Initial Catalog=FengShuiKoiDB1;Integrated Security=True;Trust Server Certificate=True";
 
         [BindProperty]
         public string Gender { get; set; }
@@ -37,24 +36,48 @@ namespace KoiProject.WebApplication.Pages
             // Đã đăng nhập, tiếp tục hiển thị nội dung trang
             return Page();
         }
-        private static int CalculateKoiNumber(int birthYear)
-        {
-            int age = DateTime.Now.Year - birthYear;
-            return (age % 5) + 1;
-        }
 
         public async Task OnPostAsync()
         {
-            if (!string.IsNullOrEmpty(Element))
+            int age = DateTime.Now.Year - BirthYear;
+
+            // Kiểm tra nếu tuổi nằm trong khoảng hợp lệ (0 đến 100)
+            if (age >= 0 && age <= 100 && !string.IsNullOrEmpty(Element))
             {
                 var koiList = await GetKoiByElementAsync(Element);
                 ConsultationResult = new ConsultationResult
                 {
                     RecommendedKoi = koiList,
-                    KoiNumber = CalculateKoiNumber(BirthYear).ToString()
+                    KoiNumber = CalculateKoiNumber(BirthYear, Element).ToString() // Sử dụng công thức mới
                 };
             }
+            else
+            {
+                // Nếu tuổi không hợp lệ, không thiết lập ConsultationResult (để mặc định là null)
+                ConsultationResult = null;
+            }
         }
+
+
+        private static int CalculateKoiNumber(int birthYear, string element)
+        {
+            int age = DateTime.Now.Year - birthYear;
+
+            // Các số may mắn theo ngũ hành
+            var luckyNumbers = element switch
+            {
+                "Kim" => new[] { 5, 10 },
+                "Mộc" => new[] { 6, 11 },
+                "Thủy" => new[] { 7, 12 },
+                "Hỏa" => new[] { 8, 14 },
+                "Thổ" => new[] { 4, 9 },
+
+            };
+
+            // Tuổi trẻ chọn số nhỏ hơn, tuổi lớn hơn chọn số lớn hơn
+            return age < 30 ? luckyNumbers[0] : luckyNumbers[1];
+        }
+
 
         private async Task<List<KoiSpecy>> GetKoiByElementAsync(string element)
         {
@@ -62,6 +85,7 @@ namespace KoiProject.WebApplication.Pages
 
             using var connection = new SqlConnection(_connectionString);
             await connection.OpenAsync();
+
             // Sử dụng KoiSpecies làm tên bảng trong câu truy vấn SQL
             var query = "SELECT KoiID, Name, SuitableElement, Description, ImageURL FROM KoiSpecies WHERE SuitableElement = @Element";
 
@@ -83,7 +107,22 @@ namespace KoiProject.WebApplication.Pages
 
             return koiList;
         }
+    }
 
+    // Class đại diện cho kết quả tư vấn
+    public class ConsultationResult
+    {
+        public List<KoiSpecy> RecommendedKoi { get; set; }
+        public string KoiNumber { get; set; }
+    }
 
+    // Class đại diện cho một giống cá Koi
+    public class KoiSpecy
+    {
+        public int KoiId { get; set; }
+        public string Name { get; set; }
+        public string SuitableElement { get; set; }
+        public string Description { get; set; }
+        public string ImageUrl { get; set; }
     }
 }
