@@ -107,19 +107,24 @@
                     </div>
                 </li>
                 <li>
-                    @if (User.Identity?.IsAuthenticated ?? false && User.IsInRole("3")) // Chỉ Admin mới thấy Dashboard
+                    @if (User.Identity?.IsAuthenticated ?? false) // Kiểm tra nếu người dùng đã đăng nhập
                     {
-                        <a href="/Dashboard/index.html">Dashboard</a>
-                    }
-                    else if (User.Identity?.IsAuthenticated ?? false)
-                    {
-                        <a href="/AdminLogin?returnUrl=/Dashboard/index.html">Dashboard</a>
+                        if (User.HasClaim("Role", "Admin")) // Kiểm tra vai trò Admin
+                        {
+                            <a asp-area="" asp-page="/Dashboard">Dashboard</a> <!-- Link Dashboard dành cho Admin -->
+                        }
+                        else
+                        {
+                            <span style="color: gray;">Dashboard (Chỉ dành cho Admin)</span> <!-- Member không thấy link -->
+                        }
                     }
                     else
                     {
-                        <a href="/AdminLogin">Dashboard</a>
+                        <a asp-area="" asp-page="/DangNhap" asp-route-returnUrl="/Dashboard">Dashboard</a> <!-- Yêu cầu đăng nhập -->
                     }
                 </li>
+
+
                 @if (User.Identity?.IsAuthenticated ?? false)
                 {
                     <!-- Đăng xuất khi đã đăng nhập -->

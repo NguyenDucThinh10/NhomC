@@ -34,3 +34,21 @@ D:\bai tap\test\test\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\re
 D:\bai tap\test\test\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
 D:\bai tap\test\test\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
 D:\bai tap\test\test\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.deps.json
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.runtimeconfig.json
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.dll
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Service.pdb
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.dll
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\bin\Debug\net8.0\KoiProject.Repositories.pdb
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.AssemblyReference.cache
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfoInputs.cache
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.AssemblyInfo.cs
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.csproj.CoreCompileInputs.cache
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.sourcelink.json
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProje.14F2F364.Up2Date
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.dll
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\refint\KoiProject.Service.dll
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.pdb
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\KoiProject.Service.genruntimeconfig.cache
+D:\pro1\NhomC\KoiProjectMain\KoiProject.Service\obj\Debug\net8.0\ref\KoiProject.Service.dll

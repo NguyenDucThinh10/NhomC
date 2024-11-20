@@ -1,7 +1,7 @@
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Security.Claims;
-using Microsoft.AspNetCore.Authentication;
 using KoiProject.Repositories.Interfaces;
 
 namespace KoiProject.WebApplication.Pages
@@ -33,39 +33,48 @@ namespace KoiProject.WebApplication.Pages
             return Page();
         }
 
-		public async Task<IActionResult> OnPostAsync()
-		{
-			if (!await _accountRepository.DoesEmailExistAsync(Email))
-			{
-				ErrorMessage = "Account does not exist.";
-				return Page();
-			}
+        public async Task<IActionResult> OnPostAsync()
+        {
+            // Ki?m tra email có t?n t?i không
+            if (!await _accountRepository.DoesEmailExistAsync(Email))
+            {
+                ErrorMessage = "Account does not exist.";
+                return Page();
+            }
 
-			var isValidAccount = await _accountRepository.ValidateAccountAsync(Email, Password);
+            // L?y tài kho?n t? c? s? d? li?u
+            var account = await _accountRepository.GetAccountByEmailAndPasswordAsync(Email, Password);
 
-			if (isValidAccount)
-			{
-				var claims = new List<Claim>
-		{
-			new Claim(ClaimTypes.Email, Email)
-		};
-				var identity = new ClaimsIdentity(claims, "Cookies");
-				var principal = new ClaimsPrincipal(identity);
+            if (account != null)
+            {
+                // T?o danh sách claims
+                var claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Email, account.Email), // Email ng??i dùng
+                    new Claim(ClaimTypes.Name, account.FullName), // Tên ng??i dùng
+                    new Claim("Role", account.UserRoleId == 3 ? "Admin" : "Member") // Phân bi?t role
+                };
 
-				await HttpContext.SignInAsync("Cookies", principal);
+                // T?o ClaimsIdentity và ClaimsPrincipal
+                var identity = new ClaimsIdentity(claims, "Cookies");
+                var principal = new ClaimsPrincipal(identity);
 
-				if (string.IsNullOrEmpty(ReturnUrl) || !Url.IsLocalUrl(ReturnUrl))
-				{
-					ReturnUrl = "/Index";
-				}
+                // ??ng nh?p b?ng Cookie
+                await HttpContext.SignInAsync("Cookies", principal);
 
-				return Redirect(ReturnUrl);
-			}
+                // Ki?m tra và x? lý ReturnUrl
+                if (string.IsNullOrEmpty(ReturnUrl) || !Url.IsLocalUrl(ReturnUrl))
+                {
+                    // Chuy?n h??ng d?a vào Role
+                    ReturnUrl = account.UserRoleId == 3 ? "/Dashboard" : "/Index";
+                }
 
-			ErrorMessage = "Password is incorrect.";
-			return Page();
-		}
+                return Redirect(ReturnUrl);
+            }
 
-
-	}
+            // N?u m?t kh?u không chính xác
+            ErrorMessage = "Email or password is incorrect.";
+            return Page();
+        }
+    }
 }

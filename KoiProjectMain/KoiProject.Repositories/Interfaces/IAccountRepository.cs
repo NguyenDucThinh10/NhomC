@@ -9,6 +9,7 @@ namespace KoiProject.Repositories.Interfaces
 {
         public interface IAccountRepository
         {
+            Task<Account?> GetAccountByEmailAndPasswordAsync(string email, string password);
             Account GetAccountByEmailAndPassword(string email, string password);
             Task<bool> DoesEmailExistAsync(string email);
 

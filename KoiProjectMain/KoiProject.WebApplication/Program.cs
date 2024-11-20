@@ -9,6 +9,10 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Thêm logging
+builder.Logging.ClearProviders();
+builder.Logging.AddConsole();
+
 // 1. Đăng ký DbContext
 builder.Services.AddDbContext<FengShuiKoiDbContext>(options =>
 {
@@ -38,30 +42,28 @@ builder.Services.AddAuthentication("Cookies")
         options.SlidingExpiration = true; // Tự động gia hạn cookie nếu người dùng hoạt động
     });
 
-builder.Services.AddAuthorization();
+builder.Services.AddAuthorization(options =>
+{
+    // Thêm chính sách chỉ dành cho Admin
+    options.AddPolicy("AdminOnly", policy =>
+        policy.RequireClaim("Role", "Admin")); // Xác định Role = Admin
+});
+
 builder.Services.AddHttpContextAccessor(); // Dùng để truy cập HttpContext
 
 // 5. Xây dựng ứng dụng
 var app = builder.Build();
 
-// Middleware cho mọi response (Thêm header charset UTF-8)
-app.Use(async (context, next) =>
+// Middleware xử lý lỗi
+if (app.Environment.IsDevelopment())
 {
-    context.Response.Headers.Add("Content-Type", "text/html; charset=utf-8");
-    await next();
-});
-
-
-
-
-// 6. Cấu hình xử lý lỗi cho Production
-if (!app.Environment.IsDevelopment())
+    app.UseDeveloperExceptionPage(); // Hiển thị thông báo lỗi chi tiết trong Development
+}
+else
 {
     app.UseExceptionHandler("/Error");
-    app.UseHsts(); // HSTS cho Production
+    app.UseHsts();
 }
-
-
 
 // 7. Middleware cơ bản
 app.UseHttpsRedirection();

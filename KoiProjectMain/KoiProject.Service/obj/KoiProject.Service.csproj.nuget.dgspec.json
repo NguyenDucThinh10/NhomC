@@ -1,28 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {}
+    "D:\\pro1\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {}
   },
   "projects": {
-    "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {
+    "D:\\pro1\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
+        "projectUniqueName": "D:\\pro1\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
         "projectName": "KoiProject.Repositories",
-        "projectPath": "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\obj\\",
+        "projectPath": "D:\\pro1\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "D:\\pro1\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net8.0": {
@@ -34,6 +42,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -81,36 +94,44 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {
+    "D:\\pro1\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
+        "projectUniqueName": "D:\\pro1\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
         "projectName": "KoiProject.Service",
-        "projectPath": "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Service\\obj\\",
+        "projectPath": "D:\\pro1\\NhomC\\KoiProjectMain\\KoiProject.Service\\KoiProject.Service.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "D:\\pro1\\NhomC\\KoiProjectMain\\KoiProject.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {
-                "projectPath": "C:\\cnpm btl\\NhomC\\NhomC\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj"
+              "D:\\pro1\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj": {
+                "projectPath": "D:\\pro1\\NhomC\\KoiProjectMain\\KoiProject.Repositories\\KoiProject.Repositories.csproj"
               }
             }
           }
@@ -119,6 +140,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -152,7 +178,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
