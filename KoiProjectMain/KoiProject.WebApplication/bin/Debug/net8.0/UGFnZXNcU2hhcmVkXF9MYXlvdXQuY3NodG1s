@@ -96,7 +96,6 @@
     <header>
         <nav>
             <ul>
-                <li><a asp-area="" asp-page="/Danhsachtk">CRUD</a></li>
                 <li><a asp-area="" asp-page="/Index">Home</a></li>
                 <li><a asp-area="" asp-page="/Phongthuy2024">Phong Thủy 2024</a></li>
                 <!-- Tư vấn phong thủy with dropdown -->
@@ -125,6 +124,23 @@
                     }
                 </li>
 
+                <li>
+                    @if (User.Identity?.IsAuthenticated ?? false) // Kiểm tra nếu người dùng đã đăng nhập
+                    {
+                        if (User.HasClaim("Role", "Admin")) // Kiểm tra vai trò Admin
+                        {
+                            <a asp-area="" asp-page="/Danhsachtk">Danh sách tài khoản</a> <!-- Link Dashboard dành cho Admin -->
+                        }
+                        else
+                        {
+                            <span style="color: gray;">Danh sách tài khoản (Chỉ dành cho Admin)</span> <!-- Member không thấy link -->
+                        }
+                    }
+                    else
+                    {
+                        <a asp-area="" asp-page="/DangNhap" asp-route-returnUrl="/Danhsachtk">Danh sách tài khoản</a> <!-- Yêu cầu đăng nhập -->
+                    }
+                </li>
 
                 @if (User.Identity?.IsAuthenticated ?? false)
                 {
