@@ -355,9 +355,9 @@ D:\bai tap\test\test\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\ne
 D:\bai tap\test\test\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\KoiProject.WebApplication.genruntimeconfig.cache
 D:\bai tap\test\test\NhomC\KoiProjectMain\KoiProject.WebApplication\obj\Debug\net8.0\ref\KoiProject.WebApplication.dll
 D:\pro1\NhomC\KoiProjectMain\KoiProject.WebApplication\bin\Debug\net8.0\appsettings.Development.json
+D:\pro1\NhomC\KoiProjectMain\KoiProject.WebApplication\bin\Debug\net8.0\appsettings.json
 D:\pro1\NhomC\KoiProjectMain\KoiProject.WebApplication\bin\Debug\net8.0\Pages\Index.cshtml
 D:\pro1\NhomC\KoiProjectMain\KoiProject.WebApplication\bin\Debug\net8.0\Pages\Shared\_Layout.cshtml
-D:\pro1\NhomC\KoiProjectMain\KoiProject.WebApplication\bin\Debug\net8.0\appsettings.json
 D:\pro1\NhomC\KoiProjectMain\KoiProject.WebApplication\bin\Debug\net8.0\KoiProject.WebApplication.staticwebassets.runtime.json
 D:\pro1\NhomC\KoiProjectMain\KoiProject.WebApplication\bin\Debug\net8.0\KoiProject.WebApplication.exe
 D:\pro1\NhomC\KoiProjectMain\KoiProject.WebApplication\bin\Debug\net8.0\KoiProject.WebApplication.deps.json

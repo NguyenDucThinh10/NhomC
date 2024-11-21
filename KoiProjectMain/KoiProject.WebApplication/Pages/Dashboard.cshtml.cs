@@ -12,29 +12,29 @@ namespace KoiProject.WebApplication.Pages
         {
             try
             {
-                Console.WriteLine("Dashboard OnGet ?ang ch?y.");
+                Console.WriteLine("");
 
                 if (!User.Identity?.IsAuthenticated ?? false)
                 {
-                    Console.WriteLine("Ng??i dùng ch?a ??ng nh?p.");
+                    Console.WriteLine("");
                     return RedirectToPage("/DangNhap");
                 }
 
                 var userRole = User.Claims.FirstOrDefault(c => c.Type == "Role")?.Value;
-                Console.WriteLine($"Role c?a ng??i dùng: {userRole}");
+                Console.WriteLine($": {userRole}");
 
                 if (userRole != "Admin")
                 {
-                    Console.WriteLine("Ng??i dùng không ph?i Admin.");
+                    Console.WriteLine("");
                     return RedirectToPage("/AccessDenied");
                 }
 
-                Console.WriteLine("Trang Dashboard ?ang ???c t?i.");
+                Console.WriteLine(".");
                 return Page();
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"L?i trong Dashboard OnGet: {ex.Message}");
+                Console.WriteLine($": {ex.Message}");
                 return RedirectToPage("/Error");
             }
         }

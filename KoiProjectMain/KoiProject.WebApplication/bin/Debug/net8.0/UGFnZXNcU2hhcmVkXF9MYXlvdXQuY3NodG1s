@@ -96,6 +96,7 @@
     <header>
         <nav>
             <ul>
+                <li><a asp-area="" asp-page="/Danhsachtk">CRUD</a></li>
                 <li><a asp-area="" asp-page="/Index">Home</a></li>
                 <li><a asp-area="" asp-page="/Phongthuy2024">Phong Thủy 2024</a></li>
                 <!-- Tư vấn phong thủy with dropdown -->

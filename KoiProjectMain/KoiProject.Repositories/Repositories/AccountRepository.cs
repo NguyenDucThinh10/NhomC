@@ -71,5 +71,37 @@ namespace KoiProject.Repositories
 
             return null;
         }
+
+        public async Task<List<Account>> GetAllAsync()
+        {
+            return await _context.Accounts.ToListAsync();
+        }
+
+        public async Task<Account> GetByIdAsync(int accountId)
+        {
+            return await _context.Accounts.FindAsync(accountId);
+        }
+
+        public async Task AddAsync(Account account)
+        {
+            await _context.Accounts.AddAsync(account);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task UpdateAsync(Account account)
+        {
+            _context.Accounts.Update(account);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task DeleteAsync(int accountId)
+        {
+            var account = await GetByIdAsync(accountId);
+            if (account != null)
+            {
+                _context.Accounts.Remove(account);
+                await _context.SaveChangesAsync();
+            }
+        }
     }
 }

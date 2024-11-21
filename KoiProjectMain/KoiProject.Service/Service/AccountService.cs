@@ -78,5 +78,30 @@ namespace KoiProject.Service
 
             return false; // Đăng nhập thất bại
         }
+
+        public async Task<List<Account>> GetAllAccountsAsync()
+        {
+            return await _accountRepository.GetAllAsync();
+        }
+
+        public async Task<Account> GetAccountByIdAsync(int accountId)
+        {
+            return await _accountRepository.GetByIdAsync(accountId);
+        }
+
+        public async Task AddAccountAsync(Account account)
+        {
+            await _accountRepository.AddAsync(account);
+        }
+
+        public async Task UpdateAccountAsync(Account account)
+        {
+            await _accountRepository.UpdateAsync(account);
+        }
+
+        public async Task DeleteAccountAsync(int accountId)
+        {
+            await _accountRepository.DeleteAsync(accountId);
+        }
     }
 }

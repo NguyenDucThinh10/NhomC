@@ -46,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/pro1/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/pro1/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/DangKy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFuZ0t5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,8 +58,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFuZ05oYXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/pro1/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Danhsachtk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFuaHNhY2h0ay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/pro1/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pro1/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/pro1/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/pro1/NhomC/KoiProjectMain/KoiProject.WebApplication/Pages/Error.cshtml]
